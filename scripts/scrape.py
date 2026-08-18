@@ -162,10 +162,10 @@ def _parse_results_table(soup: BeautifulSoup) -> list[dict]:
                 "jockey": cells[6] if len(cells) > 6 else None,
                 "time_str": cells[7] if len(cells) > 7 else None,
                 "margin": cells[8] if len(cells) > 8 else None,
-                "popularity": _to_int(cells[10]) if len(cells) > 10 else None,
-                "odds": _to_float(cells[9]) if len(cells) > 9 else None,
-                "horse_weight": cells[14] if len(cells) > 14 else None,
-                "trainer": cells[18] if len(cells) > 18 else None,
+                "odds": _to_float(cells[16]) if len(cells) > 16 else None,
+                "popularity": _to_int(cells[17]) if len(cells) > 17 else None,
+                "horse_weight": cells[18] if len(cells) > 18 else None,
+                "trainer": cells[22] if len(cells) > 22 else None,
             }
         )
     return rows
