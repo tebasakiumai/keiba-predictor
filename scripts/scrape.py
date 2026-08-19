@@ -19,6 +19,7 @@ netkeibaからレース結果を収集してSQLiteに保存するスクリプト
 """
 
 import argparse
+import random
 import re
 import time
 from datetime import datetime, timedelta
@@ -34,13 +35,13 @@ HEADERS = {
         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     )
 }
-REQUEST_INTERVAL_SEC = 2.0  # サーバー負荷軽減のための最低待機時間
+REQUEST_INTERVAL_RANGE = (1.0, 2.0)  # サーバー負荷軽減のための最低待機時間
 MAX_CONSECUTIVE_FAILURES = 8  # これ以上連続失敗したらブロック疑いとして停止
 
 
 def _get(url: str) -> requests.Response:
-    """待機付きでGETリクエストする共通関数。"""
-    time.sleep(REQUEST_INTERVAL_SEC)
+    """ランダム待機付きでGETリクエストする共通関数。"""
+    time.sleep(random.uniform(*REQUEST_INTERVAL_RANGE))
     res = requests.get(url, headers=HEADERS, timeout=15)
     res.encoding = "EUC-JP"
     return res
