@@ -97,7 +97,7 @@ def _parse_race_info(soup: BeautifulSoup, race_id: str) -> dict:
     direction = "右" if "右" in info_text else ("左" if "左" in info_text else None)
     track_condition = _find(r"(?:芝|ダート|障害)\s*[:：]\s*(\S+)")
     weather = _find(r"天候\s*[:：]\s*(\S+)")
-    race_class = _find(r"(新馬|未勝利|1勝クラス|2勝クラス|3勝クラス|オープン|G1|G2|G3|Ｇ1|Ｇ2|Ｇ3)")
+    race_class = _find(r"(新馬|未勝利|1勝クラス|2勝クラス|3勝クラス|オープン|GIII|GII|GI)")
 
     venue = None
     race_num = None
