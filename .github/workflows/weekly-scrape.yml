@@ -1,0 +1,52 @@
+name: Weekly Race Data Collection
+
+# 毎週日曜 20:00 UTC (日本時間 月曜 5:00) に自動実行、手動実行も可能にする
+on:
+  schedule:
+    - cron: "0 20 * * 0"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: コードリポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: データリポジトリをチェックアウト
+        uses: actions/checkout@v4
+        with:
+          repository: tebasakiumai/keiba-predictor-data
+          token: ${{ secrets.DATA_REPO_TOKEN }}
+          path: data-repo
+
+      - name: Pythonをセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 依存ライブラリをインストール
+        run: pip install -r requirements.txt
+
+      - name: 既存のDBを配置
+        run: |
+          mkdir -p data
+          cp data-repo/keiba.db data/keiba.db
+
+      - name: 直近1週間分のレースを収集
+        working-directory: scripts
+        run: |
+          START=$(date -d "8 days ago" +%Y-%m-%d)
+          END=$(date +%Y-%m-%d)
+          echo "収集期間: $START 〜 $END"
+          python scrape.py --start "$START" --end "$END"
+
+      - name: 更新したDBをデータリポジトリに反映
+        run: |
+          cp data/keiba.db data-repo/keiba.db
+          cd data-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add keiba.db
+          git diff --cached --quiet && echo "変更なし" || git commit -m "chore: $(date +%Y-%m-%d) 分のレースデータを追加"
+          git push
