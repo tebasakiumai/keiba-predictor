@@ -90,6 +90,18 @@ def show_shutuba(race_id: str) -> None:
             print("\n=== 1行目のデータ ===")
             for idx, val in enumerate(cells):
                 print(f"  {idx}: {val!r}")
+
+        # Item02を直接探す
+        item02_all = soup.find_all(class_=re.compile("Item02"))
+        print(f"\nItem02を含む要素: {len(item02_all)}件")
+        for tag in item02_all:
+            print(f"class={tag.get('class')}: {tag.text.strip()!r}")
+
+        # 距離・天候・馬場に関連しそうな語を含む要素をもっと広く探す
+        for tag in soup.find_all(["dd", "dl", "span", "p"]):
+            text = tag.text.strip()
+            if re.search(r"\d{3,4}m|芝|ダート|不良|稍重|天候", text) and len(text) < 100:
+                print(f"[{tag.name}] class={tag.get('class')}: {text!r}")
     finally:
         driver.quit()
 

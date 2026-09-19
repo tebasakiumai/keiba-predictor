@@ -1,12 +1,6 @@
 requests
 beautifulsoup4
 lxml
-requests
-beautifulsoup4
-lxml
-pandas
-requests
-beautifulsoup4
-lxml
 pandas
 selenium
+lightgbm

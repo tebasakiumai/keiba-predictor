@@ -1,0 +1,66 @@
+name: Weekly Prediction
+
+# 金曜21:00 JST(土曜レース向け)と土曜21:00 JST(日曜レース向け)に自動実行
+# 手動実行時は target_date を指定すれば任意の日付で試せる
+on:
+  schedule:
+    - cron: "0 12 * * 5"
+    - cron: "0 12 * * 6"
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: "予測対象日(YYYY-MM-DD)。空なら自動で翌日を使う"
+        required: false
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    steps:
+      - name: コードリポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: データリポジトリをチェックアウト(keiba.db)
+        uses: actions/checkout@v4
+        with:
+          repository: tebasakiumai/keiba-predictor-data
+          token: ${{ secrets.DATA_REPO_TOKEN }}
+          path: data-repo
+
+      - name: Pythonをセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 依存ライブラリをインストール
+        run: pip install -r requirements.txt
+
+      - name: DBを配置
+        run: |
+          mkdir -p data
+          cp data-repo/keiba.db data/keiba.db
+
+      - name: 予測対象日を決定
+        id: target
+        run: |
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            echo "date=${{ github.event.inputs.target_date }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "date=$(date -d '+1 day' +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+          fi
+          echo "対象日: $(cat "$GITHUB_OUTPUT")"
+
+      - name: 出馬表を取得
+        working-directory: scripts
+        run: python scrape_upcoming.py --date "${{ steps.target.outputs.date }}"
+
+      - name: 予測を実行
+        working-directory: scripts
+        run: python predict.py
+
+      - name: 予測結果をコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/predictions.json
+          git diff --cached --quiet && echo "変更なし" || git commit -m "chore: ${{ steps.target.outputs.date }} の予測を更新"
+          git push
