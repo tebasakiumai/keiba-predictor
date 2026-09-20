@@ -162,7 +162,15 @@ def get_shutuba(driver, race_id: str):
         print(f"  [warn] race_id={race_id} レース情報が見つかりません")
         return None
 
+    race_name = None
+    if soup.title:
+        m = re.match(r"^(.+?)\s*出馬表", soup.title.text)
+        if m:
+            race_name = m.group(1)
+
     race_info = _parse_race_info(info_tag.text, race_id)
+    race_info["race_name"] = race_name
+    
     horses = _parse_shutuba_table(soup)
 
     if not horses:

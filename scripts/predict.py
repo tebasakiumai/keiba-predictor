@@ -7,6 +7,7 @@ scrape_upcoming.pyが作ったupcoming_races.jsonと、保存済みモデル(mod
 """
 
 import json
+from datetime import datetime
 from pathlib import Path
 
 import lightgbm as lgb
@@ -108,6 +109,8 @@ def build_prediction_rows(upcoming: dict, history_df: pd.DataFrame) -> pd.DataFr
 
     rows = []
     for race in upcoming["races"]:
+        if race["course_type"] == "障害":
+            continue
         for horse in race["horses"]:
             weight_kg, weight_diff = features._parse_weight(horse["horse_weight"])
             sex = horse["sex_age"][0]
@@ -124,6 +127,10 @@ def build_prediction_rows(upcoming: dict, history_df: pd.DataFrame) -> pd.DataFr
 
             rows.append({
                 "race_id": race["race_id"],
+                "race_name": race.get("race_name"),
+                "venue": race["venue"],
+                "race_num": race["race_num"],
+                "post_time": race.get("post_time"),
                 "horse_name": horse["horse_name"],
                 "umaban": horse["umaban"],
                 "waku": horse["waku"],
@@ -168,15 +175,30 @@ def main() -> None:
     output_races = []
     for race_id, group in pred_df.groupby("race_id"):
         group_sorted = group.sort_values("predicted_score", ascending=False)
+        first = group.iloc[0]
+
+        def _safe(v):
+            return None if pd.isna(v) else v
+
         output_races.append({
             "race_id": race_id,
+            "race_name": _safe(first.race_name),
+            "venue": _safe(first.venue),
+            "race_num": int(first.race_num),
+            "post_time": _safe(first.post_time),
+            "race_class": _safe(first.race_class),
+            "course_type": _safe(first.course_type),
+            "distance_m": int(first.distance_m),
+            "direction": _safe(first.direction),
+            "track_condition": _safe(first.track_condition),
+            "weather": _safe(first.weather),
             "predictions": [
                 {
                     "rank": i + 1,
                     "umaban": int(r.umaban),
                     "horse_name": r.horse_name,
                     "predicted_score": float(r.predicted_score),
-                    "odds": r.odds,
+                    "odds": float(r.odds) if pd.notna(r.odds) else None,
                     "popularity": int(r.popularity) if pd.notna(r.popularity) else None,
                 }
                 for i, r in enumerate(group_sorted.itertuples())
@@ -184,7 +206,14 @@ def main() -> None:
         })
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump({"races": output_races}, f, ensure_ascii=False, indent=2)
+        json.dump(
+            {
+                "kaisai_date": upcoming["kaisai_date"],
+                "generated_at": datetime.now().isoformat(timespec="seconds"),
+                "races": output_races,
+            },
+            f, ensure_ascii=False, indent=2,
+        )
 
     print(f"[info] {len(output_races)}レース分の予測を {OUTPUT_PATH} に保存しました")
 

@@ -1,0 +1,59 @@
+name: Deploy Site
+
+# predictions.jsonが更新された時(=weekly-predict.ymlの実行後)、
+# またはfrontendのコードを変更してpushした時に自動実行
+on:
+  push:
+    branches: [main]
+    paths:
+      - "frontend/**"
+      - "data/predictions.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.jsをセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 最新の予測データをpublicに配置
+        run: cp data/predictions.json frontend/public/predictions.json
+
+      - name: 依存ライブラリをインストール
+        working-directory: frontend
+        run: npm ci
+
+      - name: サイトをビルド
+        working-directory: frontend
+        run: npm run build
+
+      - name: ビルド成果物をアップロード
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: GitHub Pagesへデプロイ
+        id: deployment
+        uses: actions/deploy-pages@v4
