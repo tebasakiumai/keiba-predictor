@@ -112,6 +112,8 @@ def build_prediction_rows(upcoming: dict, history_df: pd.DataFrame) -> pd.DataFr
         if race["course_type"] == "障害":
             continue
         for horse in race["horses"]:
+            if horse["odds"] is None:
+                continue
             weight_kg, weight_diff = features._parse_weight(horse["horse_weight"])
             sex = horse["sex_age"][0]
             age = int(horse["sex_age"][1:])
