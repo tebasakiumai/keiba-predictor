@@ -8,7 +8,7 @@ on:
     paths:
       - "frontend/**"
   workflow_run:
-    workflows: ["Weekly Prediction"]
+    workflows: ["Weekly Prediction", "Weekly Race Data Collection"]
     types: [completed]
   workflow_dispatch:
 
@@ -36,9 +36,13 @@ jobs:
         with:
           node-version: 20
 
-      - name: 最新の予測データをpublicに配置
-        run: cp data/predictions.json frontend/public/predictions.json
-
+      - name: 最新の予測データ・実績データをpublicに配置
+        run: |
+          cp data/predictions.json frontend/public/predictions.json
+          if [ -f data/accuracy.json ]; then
+            cp data/accuracy.json frontend/public/accuracy.json
+          fi
+          
       - name: 依存ライブラリをインストール
         working-directory: frontend
         run: npm ci
