@@ -36,6 +36,7 @@ HEADERS = {
     )
 }
 REQUEST_INTERVAL_RANGE = (1.0, 2.0)  # サーバー負荷軽減のための最低待機時間
+JRA_VENUE_CODES = {f"{i:02d}" for i in range(1, 11)}  # 01〜10 = JRA
 MAX_CONSECUTIVE_FAILURES = 8  # これ以上連続失敗したらブロック疑いとして停止
 
 
@@ -76,7 +77,8 @@ def get_race_ids_for_date(date_str: str) -> list[str]:
     for a_tag in race_list.find_all("a"):
         href = a_tag.get("href", "")
         for race_id in re.findall(r"[0-9]{12}", href):
-            race_ids.add(race_id)
+            if race_id[4:6] in JRA_VENUE_CODES:
+                race_ids.add(race_id)
     return sorted(race_ids)
 
 
