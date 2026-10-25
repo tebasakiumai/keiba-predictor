@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import './index.css'
+import AccuracyPanel from './AccuracyPanel'
 
 type Prediction = {
   rank: number
@@ -148,6 +149,7 @@ function App() {
             ))}
           </div>
         )}
+        <AccuracyPanel />
       </main>
     </>
   )
