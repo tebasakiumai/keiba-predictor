@@ -57,10 +57,13 @@ jobs:
         working-directory: scripts
         run: python predict.py
 
+      - name: 予測履歴を保存
+        run: python scripts/save_history.py
+
       - name: 予測結果をコミット
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/predictions.json
+          git add data/predictions.json data/history
           git diff --cached --quiet && echo "変更なし" || git commit -m "chore: ${{ steps.target.outputs.date }} の予測を更新"
           git push
