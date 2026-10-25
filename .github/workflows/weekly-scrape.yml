@@ -40,7 +40,7 @@ jobs:
           END=$(date +%Y-%m-%d)
           echo "収集期間: $START 〜 $END"
           python scrape.py --start "$START" --end "$END"
-
+      
       - name: 更新したDBをデータリポジトリに反映
         run: |
           cp data/keiba.db data-repo/keiba.db
@@ -49,4 +49,16 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add keiba.db
           git diff --cached --quiet && echo "変更なし" || git commit -m "chore: $(date +%Y-%m-%d) 分のレースデータを追加"
+          git push
+
+      - name: 的中率を集計
+        run: python scripts/evaluate.py --out data/accuracy.json
+
+      - name: 集計結果をコードリポジトリにコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/accuracy.json
+          git diff --cached --quiet && echo "変更なし" || git commit -m "chore: $(date +%Y-%m-%d) 時点の的中率を更新"
+          git pull --rebase
           git push
