@@ -3,7 +3,8 @@ name: Weekly Race Data Collection
 # 毎週日曜 20:00 UTC (日本時間 月曜 5:00) に自動実行、手動実行も可能にする
 on:
   schedule:
-    - cron: "0 20 * * 0"
+    - cron: "0 20 * * 0"   # 日曜 20:00 UTC (月曜 5:00 JST)
+    - cron: "0 20 * * 4"   # 木曜 20:00 UTC (金曜 5:00 JST)。結果登録の遅れを拾い、金曜の予測の前にDBを最新にする
   workflow_dispatch:
 
 jobs:
