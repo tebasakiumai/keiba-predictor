@@ -1,0 +1,326 @@
+{
+  "generated_at": "2026-10-26T00:04:18+00:00",
+  "date_from": "20260920",
+  "date_to": "20261018",
+  "overall": {
+    "n_races": 231,
+    "model": {
+      "win": 0.31601731601731603,
+      "place": 0.6666666666666666,
+      "overlap": 1.593073593073593,
+      "trio": 0.0735930735930736
+    },
+    "favorite": {
+      "win": 0.31601731601731603,
+      "place": 0.696969696969697,
+      "overlap": 1.593073593073593,
+      "trio": 0.0735930735930736
+    },
+    "random": {
+      "win": 0.07849743909713354,
+      "place": 0.23549231729140055
+    },
+    "paired": {
+      "win": {
+        "only_model": 9,
+        "only_favorite": 9,
+        "p_value": 1.0
+      },
+      "place": {
+        "only_model": 3,
+        "only_favorite": 10,
+        "p_value": 0.09228515625
+      }
+    }
+  },
+  "by_date": [
+    {
+      "kaisai_date": "20260920",
+      "n_races": 23,
+      "model": {
+        "win": 0.30434782608695654,
+        "place": 0.6521739130434783,
+        "overlap": 1.434782608695652,
+        "trio": 0.0
+      },
+      "favorite": {
+        "win": 0.34782608695652173,
+        "place": 0.6521739130434783,
+        "overlap": 1.4782608695652173,
+        "trio": 0.0
+      },
+      "random": {
+        "win": 0.07432072758159715,
+        "place": 0.22296218274479146
+      },
+      "paired": {
+        "win": {
+          "only_model": 0,
+          "only_favorite": 1,
+          "p_value": 1.0
+        },
+        "place": {
+          "only_model": 0,
+          "only_favorite": 0,
+          "p_value": 1.0
+        }
+      }
+    },
+    {
+      "kaisai_date": "20260926",
+      "n_races": 23,
+      "model": {
+        "win": 0.34782608695652173,
+        "place": 0.7391304347826086,
+        "overlap": 1.608695652173913,
+        "trio": 0.08695652173913043
+      },
+      "favorite": {
+        "win": 0.43478260869565216,
+        "place": 0.8260869565217391,
+        "overlap": 1.608695652173913,
+        "trio": 0.13043478260869565
+      },
+      "random": {
+        "win": 0.08095883585014019,
+        "place": 0.2428765075504206
+      },
+      "paired": {
+        "win": {
+          "only_model": 0,
+          "only_favorite": 2,
+          "p_value": 0.5
+        },
+        "place": {
+          "only_model": 0,
+          "only_favorite": 2,
+          "p_value": 0.5
+        }
+      }
+    },
+    {
+      "kaisai_date": "20260927",
+      "n_races": 23,
+      "model": {
+        "win": 0.34782608695652173,
+        "place": 0.6521739130434783,
+        "overlap": 1.3478260869565217,
+        "trio": 0.043478260869565216
+      },
+      "favorite": {
+        "win": 0.30434782608695654,
+        "place": 0.6521739130434783,
+        "overlap": 1.391304347826087,
+        "trio": 0.043478260869565216
+      },
+      "random": {
+        "win": 0.08479280381454292,
+        "place": 0.2543784114436288
+      },
+      "paired": {
+        "win": {
+          "only_model": 2,
+          "only_favorite": 1,
+          "p_value": 1.0
+        },
+        "place": {
+          "only_model": 1,
+          "only_favorite": 1,
+          "p_value": 1.0
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261003",
+      "n_races": 23,
+      "model": {
+        "win": 0.2608695652173913,
+        "place": 0.6521739130434783,
+        "overlap": 1.7826086956521738,
+        "trio": 0.08695652173913043
+      },
+      "favorite": {
+        "win": 0.30434782608695654,
+        "place": 0.6521739130434783,
+        "overlap": 1.6956521739130435,
+        "trio": 0.08695652173913043
+      },
+      "random": {
+        "win": 0.07141145654572764,
+        "place": 0.21423436963718295
+      },
+      "paired": {
+        "win": {
+          "only_model": 0,
+          "only_favorite": 1,
+          "p_value": 1.0
+        },
+        "place": {
+          "only_model": 0,
+          "only_favorite": 0,
+          "p_value": 1.0
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261004",
+      "n_races": 23,
+      "model": {
+        "win": 0.30434782608695654,
+        "place": 0.5652173913043478,
+        "overlap": 1.391304347826087,
+        "trio": 0.0
+      },
+      "favorite": {
+        "win": 0.34782608695652173,
+        "place": 0.6521739130434783,
+        "overlap": 1.391304347826087,
+        "trio": 0.0
+      },
+      "random": {
+        "win": 0.06909024479356961,
+        "place": 0.2072707343807088
+      },
+      "paired": {
+        "win": {
+          "only_model": 0,
+          "only_favorite": 1,
+          "p_value": 1.0
+        },
+        "place": {
+          "only_model": 1,
+          "only_favorite": 3,
+          "p_value": 0.625
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261010",
+      "n_races": 23,
+      "model": {
+        "win": 0.2608695652173913,
+        "place": 0.5652173913043478,
+        "overlap": 1.434782608695652,
+        "trio": 0.043478260869565216
+      },
+      "favorite": {
+        "win": 0.30434782608695654,
+        "place": 0.6521739130434783,
+        "overlap": 1.5217391304347827,
+        "trio": 0.043478260869565216
+      },
+      "random": {
+        "win": 0.08181178724656986,
+        "place": 0.2454353617397096
+      },
+      "paired": {
+        "win": {
+          "only_model": 0,
+          "only_favorite": 1,
+          "p_value": 1.0
+        },
+        "place": {
+          "only_model": 0,
+          "only_favorite": 2,
+          "p_value": 0.5
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261011",
+      "n_races": 23,
+      "model": {
+        "win": 0.391304347826087,
+        "place": 0.6956521739130435,
+        "overlap": 1.7391304347826086,
+        "trio": 0.17391304347826086
+      },
+      "favorite": {
+        "win": 0.34782608695652173,
+        "place": 0.6956521739130435,
+        "overlap": 1.7391304347826086,
+        "trio": 0.13043478260869565
+      },
+      "random": {
+        "win": 0.07046658584382368,
+        "place": 0.21139975753147108
+      },
+      "paired": {
+        "win": {
+          "only_model": 1,
+          "only_favorite": 0,
+          "p_value": 1.0
+        },
+        "place": {
+          "only_model": 0,
+          "only_favorite": 0,
+          "p_value": 1.0
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261017",
+      "n_races": 35,
+      "model": {
+        "win": 0.2571428571428571,
+        "place": 0.6285714285714286,
+        "overlap": 1.6285714285714286,
+        "trio": 0.08571428571428572
+      },
+      "favorite": {
+        "win": 0.2,
+        "place": 0.6571428571428571,
+        "overlap": 1.6,
+        "trio": 0.05714285714285714
+      },
+      "random": {
+        "win": 0.08128890950319521,
+        "place": 0.24386672850958563
+      },
+      "paired": {
+        "win": {
+          "only_model": 3,
+          "only_favorite": 1,
+          "p_value": 0.625
+        },
+        "place": {
+          "only_model": 0,
+          "only_favorite": 1,
+          "p_value": 1.0
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261018",
+      "n_races": 35,
+      "model": {
+        "win": 0.37142857142857144,
+        "place": 0.8,
+        "overlap": 1.8285714285714285,
+        "trio": 0.11428571428571428
+      },
+      "favorite": {
+        "win": 0.3142857142857143,
+        "place": 0.8,
+        "overlap": 1.8,
+        "trio": 0.14285714285714285
+      },
+      "random": {
+        "win": 0.08663401257939074,
+        "place": 0.2599020377381722
+      },
+      "paired": {
+        "win": {
+          "only_model": 3,
+          "only_favorite": 1,
+          "p_value": 0.625
+        },
+        "place": {
+          "only_model": 1,
+          "only_favorite": 1,
+          "p_value": 1.0
+        }
+      }
+    }
+  ]
+}
