@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-26T00:04:18+00:00",
+  "generated_at": "2026-10-29T23:49:27+00:00",
   "date_from": "20260920",
-  "date_to": "20261018",
+  "date_to": "20261025",
   "overall": {
-    "n_races": 231,
+    "n_races": 300,
     "model": {
-      "win": 0.31601731601731603,
-      "place": 0.6666666666666666,
-      "overlap": 1.593073593073593,
-      "trio": 0.0735930735930736
+      "win": 0.30333333333333334,
+      "place": 0.6533333333333333,
+      "overlap": 1.56,
+      "trio": 0.07
     },
     "favorite": {
-      "win": 0.31601731601731603,
-      "place": 0.696969696969697,
-      "overlap": 1.593073593073593,
-      "trio": 0.0735930735930736
+      "win": 0.3,
+      "place": 0.68,
+      "overlap": 1.5533333333333332,
+      "trio": 0.07
     },
     "random": {
-      "win": 0.07849743909713354,
-      "place": 0.23549231729140055
+      "win": 0.07909542799248681,
+      "place": 0.23728628397746046
     },
     "paired": {
       "win": {
-        "only_model": 9,
-        "only_favorite": 9,
+        "only_model": 13,
+        "only_favorite": 12,
         "p_value": 1.0
       },
       "place": {
-        "only_model": 3,
-        "only_favorite": 10,
-        "p_value": 0.09228515625
+        "only_model": 8,
+        "only_favorite": 16,
+        "p_value": 0.15158963203430176
       }
     }
   },
@@ -318,6 +318,70 @@
         "place": {
           "only_model": 1,
           "only_favorite": 1,
+          "p_value": 1.0
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261024",
+      "n_races": 34,
+      "model": {
+        "win": 0.3235294117647059,
+        "place": 0.6764705882352942,
+        "overlap": 1.588235294117647,
+        "trio": 0.058823529411764705
+      },
+      "favorite": {
+        "win": 0.2647058823529412,
+        "place": 0.7058823529411765,
+        "overlap": 1.5294117647058822,
+        "trio": 0.058823529411764705
+      },
+      "random": {
+        "win": 0.07994179023590789,
+        "place": 0.2398253707077237
+      },
+      "paired": {
+        "win": {
+          "only_model": 3,
+          "only_favorite": 1,
+          "p_value": 0.625
+        },
+        "place": {
+          "only_model": 2,
+          "only_favorite": 3,
+          "p_value": 1.0
+        }
+      }
+    },
+    {
+      "kaisai_date": "20261025",
+      "n_races": 35,
+      "model": {
+        "win": 0.2,
+        "place": 0.5428571428571428,
+        "overlap": 1.3142857142857143,
+        "trio": 0.05714285714285714
+      },
+      "favorite": {
+        "win": 0.22857142857142856,
+        "place": 0.5428571428571428,
+        "overlap": 1.3142857142857143,
+        "trio": 0.05714285714285714
+      },
+      "random": {
+        "win": 0.08221997423678096,
+        "place": 0.24665992271034284
+      },
+      "paired": {
+        "win": {
+          "only_model": 1,
+          "only_favorite": 2,
+          "p_value": 1.0
+        },
+        "place": {
+          "only_model": 3,
+          "only_favorite": 3,
           "p_value": 1.0
         }
       }
