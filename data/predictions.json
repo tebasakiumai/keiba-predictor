@@ -1,331 +1,149 @@
 {
-  "kaisai_date": "20261031",
-  "generated_at": "2026-10-30T17:42:10",
+  "kaisai_date": "20261101",
+  "generated_at": "2026-10-31T16:46:32",
   "races": [
     {
-      "race_id": "202605041001",
+      "race_id": "202605041101",
       "race_name": "２歳未勝利",
       "venue": "東京",
       "race_num": 1,
-      "post_time": "09:50",
+      "post_time": "10:00",
       "race_class": "未勝利",
-      "course_type": "ダート",
-      "distance_m": 1600,
+      "course_type": "芝",
+      "distance_m": 1400,
       "direction": "左",
       "track_condition": null,
       "weather": null,
       "predictions": [
         {
           "rank": 1,
-          "umaban": 11,
-          "horse_name": "ランフェザー",
-          "predicted_score": 0.729444568926858,
-          "odds": 1.4,
+          "umaban": 1,
+          "horse_name": "インサイドエッジ",
+          "predicted_score": 0.6787523960125854,
+          "odds": 1.8,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 14,
-          "horse_name": "パレスラン",
-          "predicted_score": -0.07744692968615834,
-          "odds": 10.2,
+          "umaban": 13,
+          "horse_name": "ユリア",
+          "predicted_score": 0.250480938482056,
+          "odds": 4.4,
           "popularity": 2
         },
         {
           "rank": 3,
-          "umaban": 12,
-          "horse_name": "ホウオウシュウ",
-          "predicted_score": -0.08158777782962286,
-          "odds": 10.7,
+          "umaban": 3,
+          "horse_name": "ミエルモーサ",
+          "predicted_score": 0.018678929825582773,
+          "odds": 8.1,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 6,
-          "horse_name": "イントゥーザブルー",
-          "predicted_score": -0.12197770592279657,
-          "odds": 11.8,
+          "umaban": 9,
+          "horse_name": "アニーリング",
+          "predicted_score": 0.009740900457907604,
+          "odds": 8.8,
           "popularity": 4
         },
         {
           "rank": 5,
-          "umaban": 7,
-          "horse_name": "フジサンインフレ",
-          "predicted_score": -0.1556377737351603,
-          "odds": 13.9,
+          "umaban": 12,
+          "horse_name": "ローズファミリー",
+          "predicted_score": -0.13193467063001532,
+          "odds": 12.7,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 5,
-          "horse_name": "ハイファイネスト",
-          "predicted_score": -0.24219305841768873,
-          "odds": 17.3,
+          "umaban": 6,
+          "horse_name": "ステラガーネット",
+          "predicted_score": -0.368284135604178,
+          "odds": 24.4,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 15,
-          "horse_name": "アークレイリ",
-          "predicted_score": -0.368284135604178,
-          "odds": 22.6,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 13,
-          "horse_name": "チャリンコリン",
-          "predicted_score": -0.37526470517535815,
-          "odds": 29.1,
+          "umaban": 2,
+          "horse_name": "シュネーバレン",
+          "predicted_score": -0.533550535697992,
+          "odds": 42.5,
           "popularity": 8
         },
         {
+          "rank": 8,
+          "umaban": 14,
+          "horse_name": "テリオスブギ",
+          "predicted_score": -0.5376333497631384,
+          "odds": 41.1,
+          "popularity": 7
+        },
+        {
           "rank": 9,
-          "umaban": 4,
-          "horse_name": "ボディビルダー",
-          "predicted_score": -0.6074589815797233,
-          "odds": 52.6,
+          "umaban": 11,
+          "horse_name": "ウインリスノアール",
+          "predicted_score": -0.5944862601427693,
+          "odds": 52.1,
           "popularity": 9
         },
         {
           "rank": 10,
-          "umaban": 3,
-          "horse_name": "ドーンオブホープ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 59.0,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 8,
-          "horse_name": "フィックスユー",
-          "predicted_score": -0.6186307043281037,
-          "odds": 63.4,
+          "umaban": 4,
+          "horse_name": "ナナレイ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 76.8,
           "popularity": 11
         },
         {
-          "rank": 12,
-          "umaban": 2,
-          "horse_name": "ニシノツムジカゼ",
+          "rank": 11,
+          "umaban": 5,
+          "horse_name": "オオルリ",
           "predicted_score": -0.6984247876214441,
-          "odds": 85.3,
-          "popularity": 13
+          "odds": 75.6,
+          "popularity": 10
+        },
+        {
+          "rank": 12,
+          "umaban": 7,
+          "horse_name": "コスモオルト",
+          "predicted_score": -0.6984247876214441,
+          "odds": 93.4,
+          "popularity": 12
         },
         {
           "rank": 13,
-          "umaban": 9,
-          "horse_name": "サイボーグ",
-          "predicted_score": -0.6984247876214441,
-          "odds": 89.2,
-          "popularity": 14
+          "umaban": 8,
+          "horse_name": "レミニシング",
+          "predicted_score": -0.8194195345105473,
+          "odds": 157.6,
+          "popularity": 15
         },
         {
           "rank": 14,
           "umaban": 10,
-          "horse_name": "サクラトップオメガ",
-          "predicted_score": -0.6984247876214441,
-          "odds": 82.0,
-          "popularity": 12
+          "horse_name": "チャジャッタ",
+          "predicted_score": -0.8194195345105473,
+          "odds": 137.5,
+          "popularity": 13
         },
         {
           "rank": 15,
-          "umaban": 16,
-          "horse_name": "ウスズミザクラ",
+          "umaban": 15,
+          "horse_name": "ココニイルヨ",
           "predicted_score": -0.8194195345105473,
-          "odds": 151.4,
-          "popularity": 15
-        },
-        {
-          "rank": 16,
-          "umaban": 1,
-          "horse_name": "トルタネーラ",
-          "predicted_score": -0.8380263924820178,
-          "odds": 247.1,
-          "popularity": 16
+          "odds": 141.4,
+          "popularity": 14
         }
       ]
     },
     {
-      "race_id": "202605041002",
+      "race_id": "202605041102",
       "race_name": "２歳未勝利",
       "venue": "東京",
       "race_num": 2,
-      "post_time": "10:20",
+      "post_time": "10:30",
       "race_class": "未勝利",
-      "course_type": "芝",
-      "distance_m": 1600,
-      "direction": "左",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 9,
-          "horse_name": "ローザヴェローナ",
-          "predicted_score": 0.729444568926858,
-          "odds": 1.3,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 2,
-          "horse_name": "ドナフェリーチェ",
-          "predicted_score": 0.2255545120704539,
-          "odds": 5.3,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 3,
-          "horse_name": "セラフィムコード",
-          "predicted_score": -0.08730878654603307,
-          "odds": 11.0,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 5,
-          "horse_name": "ダンツトリノ",
-          "predicted_score": -0.24441568369779962,
-          "odds": 17.6,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 6,
-          "horse_name": "クリガーレ",
-          "predicted_score": -0.28549142971757513,
-          "odds": 19.0,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 10,
-          "horse_name": "コスモシグナス",
-          "predicted_score": -0.287714054997686,
-          "odds": 19.8,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 8,
-          "horse_name": "アイビークロノス",
-          "predicted_score": -0.47726217220918205,
-          "odds": 36.7,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 7,
-          "horse_name": "トーセンイルン",
-          "predicted_score": -0.5127197284425902,
-          "odds": 38.1,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 1,
-          "horse_name": "ヒミツヘイキ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 57.8,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 4,
-          "horse_name": "キタノバトゥーキ",
-          "predicted_score": -0.8194195345105473,
-          "odds": 136.4,
-          "popularity": 10
-        }
-      ]
-    },
-    {
-      "race_id": "202605041003",
-      "race_name": "２歳未勝利",
-      "venue": "東京",
-      "race_num": 3,
-      "post_time": "10:50",
-      "race_class": "未勝利",
-      "course_type": "芝",
-      "distance_m": 2000,
-      "direction": "左",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 8,
-          "horse_name": "アトミックリーチ",
-          "predicted_score": 0.729444568926858,
-          "odds": 1.4,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 2,
-          "horse_name": "グランドストーリー",
-          "predicted_score": 0.21329208461178895,
-          "odds": 5.6,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 5,
-          "horse_name": "ゴールドテソーロ",
-          "predicted_score": 0.06615271227982909,
-          "odds": 7.9,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 7,
-          "horse_name": "サラサシンシアズ",
-          "predicted_score": -0.09448289665381236,
-          "odds": 9.5,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 6,
-          "horse_name": "アオイゲート",
-          "predicted_score": -0.17901506899217628,
-          "odds": 13.6,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 4,
-          "horse_name": "リカジョンファンク",
-          "predicted_score": -0.3743277911573821,
-          "odds": 28.5,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 1,
-          "horse_name": "フィニート",
-          "predicted_score": -0.5044836659720109,
-          "odds": 38.6,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 3,
-          "horse_name": "スカイミラー",
-          "predicted_score": -0.5944862601427693,
-          "odds": 50.1,
-          "popularity": 8
-        }
-      ]
-    },
-    {
-      "race_id": "202605041004",
-      "race_name": "２歳新馬",
-      "venue": "東京",
-      "race_num": 4,
-      "post_time": "11:20",
-      "race_class": "新馬",
       "course_type": "ダート",
       "distance_m": 1400,
       "direction": "左",
@@ -334,141 +152,141 @@
       "predictions": [
         {
           "rank": 1,
-          "umaban": 13,
-          "horse_name": "チェンジエッジ",
-          "predicted_score": 0.2191429058843742,
-          "odds": 5.6,
+          "umaban": 7,
+          "horse_name": "クールランナー",
+          "predicted_score": 0.265008625161181,
+          "odds": 4.8,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 9,
-          "horse_name": "ミヤルロワ",
-          "predicted_score": 0.04585176153510889,
-          "odds": 6.0,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 6,
-          "horse_name": "ジャスティンバルサ",
-          "predicted_score": 0.01469660572281797,
-          "odds": 6.7,
+          "umaban": 13,
+          "horse_name": "パープルタウン",
+          "predicted_score": 0.08237747204362565,
+          "odds": 7.0,
           "popularity": 3
         },
         {
-          "rank": 4,
-          "umaban": 14,
-          "horse_name": "エコロガルディア",
-          "predicted_score": 0.01469660572281797,
-          "odds": 7.0,
+          "rank": 3,
+          "umaban": 11,
+          "horse_name": "サザンマキシム",
+          "predicted_score": 0.07146317767661024,
+          "odds": 7.7,
           "popularity": 4
         },
         {
+          "rank": 4,
+          "umaban": 6,
+          "horse_name": "ナムラアラバイ",
+          "predicted_score": 0.07096149543272272,
+          "odds": 6.3,
+          "popularity": 2
+        },
+        {
           "rank": 5,
-          "umaban": 3,
-          "horse_name": "ワイワイシャイニー",
-          "predicted_score": 0.008632859754004069,
-          "odds": 7.1,
-          "popularity": 5
+          "umaban": 15,
+          "horse_name": "タワーレイヴン",
+          "predicted_score": 0.045386436190808024,
+          "odds": 8.5,
+          "popularity": 7
         },
         {
           "rank": 6,
-          "umaban": 12,
-          "horse_name": "レーヴマジック",
-          "predicted_score": -0.07747807306499767,
-          "odds": 9.1,
-          "popularity": 6
+          "umaban": 16,
+          "horse_name": "スピカテソーロ",
+          "predicted_score": 0.035498414534105766,
+          "odds": 8.2,
+          "popularity": 5
         },
         {
           "rank": 7,
-          "umaban": 4,
-          "horse_name": "ホウオウビリオン",
-          "predicted_score": -0.11356839010244348,
-          "odds": 11.2,
-          "popularity": 7
+          "umaban": 2,
+          "horse_name": "タマモキャスケット",
+          "predicted_score": 0.009635587830388068,
+          "odds": 8.5,
+          "popularity": 6
         },
         {
           "rank": 8,
           "umaban": 10,
-          "horse_name": "モリノヤマセミ",
-          "predicted_score": -0.17901506899217628,
-          "odds": 13.6,
+          "horse_name": "ライヴバーボン",
+          "predicted_score": -0.21507375960435232,
+          "odds": 16.2,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 7,
-          "horse_name": "シンクロニシティ",
-          "predicted_score": -0.3800097655223664,
-          "odds": 24.8,
-          "popularity": 10
-        },
-        {
-          "rank": 10,
-          "umaban": 2,
-          "horse_name": "アマネディル",
-          "predicted_score": -0.38206190079191926,
-          "odds": 23.7,
+          "umaban": 8,
+          "horse_name": "アイデアルカット",
+          "predicted_score": -0.36897744238479885,
+          "odds": 22.0,
           "popularity": 9
         },
         {
+          "rank": 10,
+          "umaban": 5,
+          "horse_name": "アブリコース",
+          "predicted_score": -0.37526470517535815,
+          "odds": 22.8,
+          "popularity": 10
+        },
+        {
           "rank": 11,
-          "umaban": 15,
-          "horse_name": "エマリュウオー",
-          "predicted_score": -0.4351659405080855,
-          "odds": 31.5,
+          "umaban": 14,
+          "horse_name": "ツジベン",
+          "predicted_score": -0.43433628696071186,
+          "odds": 34.8,
           "popularity": 11
         },
         {
           "rank": 12,
-          "umaban": 11,
-          "horse_name": "ナニワダマシイ",
-          "predicted_score": -0.540531105269172,
-          "odds": 42.9,
-          "popularity": 12
+          "umaban": 1,
+          "horse_name": "カリメラ",
+          "predicted_score": -0.5944862601427693,
+          "odds": 50.1,
+          "popularity": 13
         },
         {
           "rank": 13,
-          "umaban": 8,
-          "horse_name": "ピトンピンク",
-          "predicted_score": -0.6186307043281037,
-          "odds": 61.2,
-          "popularity": 15
+          "umaban": 4,
+          "horse_name": "キミヘノメロディー",
+          "predicted_score": -0.5944862601427693,
+          "odds": 46.8,
+          "popularity": 12
         },
         {
           "rank": 14,
-          "umaban": 5,
-          "horse_name": "アヘッドオブオール",
+          "umaban": 3,
+          "horse_name": "イチゴワタアメ",
           "predicted_score": -0.6186307043281037,
-          "odds": 55.0,
+          "odds": 64.6,
           "popularity": 14
         },
         {
           "rank": 15,
-          "umaban": 1,
-          "horse_name": "アワフェリシティ",
+          "umaban": 9,
+          "horse_name": "ホウフクゼットウ",
           "predicted_score": -0.6186307043281037,
-          "odds": 53.8,
-          "popularity": 13
+          "odds": 67.3,
+          "popularity": 15
         },
         {
           "rank": 16,
-          "umaban": 16,
-          "horse_name": "グランドバッシュ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 63.5,
+          "umaban": 12,
+          "horse_name": "カンタベリーアップ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 97.7,
           "popularity": 16
         }
       ]
     },
     {
-      "race_id": "202605041005",
-      "race_name": "２歳新馬",
+      "race_id": "202605041103",
+      "race_name": "２歳未勝利",
       "venue": "東京",
-      "race_num": 5,
-      "post_time": "12:10",
-      "race_class": "新馬",
+      "race_num": 3,
+      "post_time": "11:00",
+      "race_class": "未勝利",
       "course_type": "芝",
       "distance_m": 1800,
       "direction": "左",
@@ -477,87 +295,428 @@
       "predictions": [
         {
           "rank": 1,
-          "umaban": 8,
-          "horse_name": "エクアトーレ",
-          "predicted_score": 0.729444568926858,
-          "odds": 1.4,
+          "umaban": 5,
+          "horse_name": "ラニアケア",
+          "predicted_score": 0.6787523960125854,
+          "odds": 1.9,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 2,
-          "horse_name": "ラヴェーラ",
-          "predicted_score": -0.0016349610432342798,
-          "odds": 7.5,
+          "umaban": 9,
+          "horse_name": "ハートノート",
+          "predicted_score": 0.3703295246371783,
+          "odds": 2.0,
           "popularity": 2
         },
         {
           "rank": 3,
-          "umaban": 5,
-          "horse_name": "ハクアイソー",
-          "predicted_score": -0.11832437143699466,
-          "odds": 10.0,
+          "umaban": 2,
+          "horse_name": "マイネルリシャール",
+          "predicted_score": -0.09561851633828955,
+          "odds": 10.7,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 7,
-          "horse_name": "シャルマンスリール",
-          "predicted_score": -0.17901506899217628,
-          "odds": 14.2,
-          "popularity": 6
+          "umaban": 4,
+          "horse_name": "コスモバルムンク",
+          "predicted_score": -0.14139540331498712,
+          "odds": 11.6,
+          "popularity": 4
         },
         {
           "rank": 5,
-          "umaban": 3,
-          "horse_name": "ケープルグラン",
-          "predicted_score": -0.17901506899217628,
-          "odds": 13.3,
+          "umaban": 1,
+          "horse_name": "クラウンフラッグ",
+          "predicted_score": -0.5944862601427693,
+          "odds": 52.1,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 6,
-          "horse_name": "タイセイリメンバー",
-          "predicted_score": -0.17901506899217628,
-          "odds": 13.0,
-          "popularity": 4
-        },
-        {
-          "rank": 7,
-          "umaban": 9,
-          "horse_name": "バーンユアハート",
-          "predicted_score": -0.37726432347219274,
-          "odds": 23.7,
+          "umaban": 3,
+          "horse_name": "マリノフスキー",
+          "predicted_score": -0.6186307043281037,
+          "odds": 66.3,
           "popularity": 7
         },
         {
+          "rank": 7,
+          "umaban": 7,
+          "horse_name": "マルガリート",
+          "predicted_score": -0.6186307043281037,
+          "odds": 64.1,
+          "popularity": 6
+        },
+        {
           "rank": 8,
-          "umaban": 4,
-          "horse_name": "ヴィルアペックス",
-          "predicted_score": -0.38206190079191926,
-          "odds": 24.6,
+          "umaban": 6,
+          "horse_name": "ケイツーラリ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 87.9,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 1,
-          "horse_name": "サスケサートゥル",
-          "predicted_score": -0.5944862601427693,
-          "odds": 50.2,
+          "umaban": 8,
+          "horse_name": "アラヤシキ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 90.9,
           "popularity": 9
         }
       ]
     },
     {
-      "race_id": "202605041006",
+      "race_id": "202605041104",
+      "race_name": "２歳新馬",
+      "venue": "東京",
+      "race_num": 4,
+      "post_time": "11:30",
+      "race_class": "新馬",
+      "course_type": "芝",
+      "distance_m": 1600,
+      "direction": "左",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 10,
+          "horse_name": "コールセレスト",
+          "predicted_score": 0.5175051018134271,
+          "odds": 2.2,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 1,
+          "horse_name": "アドマイヤキングス",
+          "predicted_score": 0.24378285295586702,
+          "odds": 4.7,
+          "popularity": 2
+        },
+        {
+          "rank": 3,
+          "umaban": 7,
+          "horse_name": "ブラスオルケスター",
+          "predicted_score": 0.01469660572281797,
+          "odds": 6.5,
+          "popularity": 4
+        },
+        {
+          "rank": 4,
+          "umaban": 2,
+          "horse_name": "レッドカロン",
+          "predicted_score": 0.008632859754004069,
+          "odds": 6.5,
+          "popularity": 3
+        },
+        {
+          "rank": 5,
+          "umaban": 4,
+          "horse_name": "ネオマイスター",
+          "predicted_score": -0.2999910826930648,
+          "odds": 19.9,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 8,
+          "horse_name": "エンケリ",
+          "predicted_score": -0.32731429010154295,
+          "odds": 21.1,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 13,
+          "horse_name": "イデアブチャラティ",
+          "predicted_score": -0.37726432347219274,
+          "odds": 23.2,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 3,
+          "horse_name": "ファイナルチューブ",
+          "predicted_score": -0.38661560719434884,
+          "odds": 30.5,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 5,
+          "horse_name": "サルサベガ",
+          "predicted_score": -0.5127197284425902,
+          "odds": 37.1,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 9,
+          "horse_name": "フォルミナンテ",
+          "predicted_score": -0.5605706796979564,
+          "odds": 43.9,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 12,
+          "horse_name": "ニシノカサブランカ",
+          "predicted_score": -0.5944862601427693,
+          "odds": 47.4,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 11,
+          "horse_name": "キョウエイタウン",
+          "predicted_score": -0.6186307043281037,
+          "odds": 67.7,
+          "popularity": 13
+        },
+        {
+          "rank": 13,
+          "umaban": 14,
+          "horse_name": "クライムザツリー",
+          "predicted_score": -0.6186307043281037,
+          "odds": 54.8,
+          "popularity": 12
+        },
+        {
+          "rank": 14,
+          "umaban": 6,
+          "horse_name": "サウザンボム",
+          "predicted_score": -0.666700943801813,
+          "odds": 70.8,
+          "popularity": 14
+        }
+      ]
+    },
+    {
+      "race_id": "202605041105",
+      "race_name": "２歳新馬",
+      "venue": "東京",
+      "race_num": 5,
+      "post_time": "12:20",
+      "race_class": "新馬",
+      "course_type": "芝",
+      "distance_m": 2000,
+      "direction": "左",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 6,
+          "horse_name": "パルパデオ",
+          "predicted_score": 0.27426216162012007,
+          "odds": 3.0,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 8,
+          "horse_name": "アイアムスグレモノ",
+          "predicted_score": 0.25819602258518165,
+          "odds": 3.9,
+          "popularity": 2
+        },
+        {
+          "rank": 3,
+          "umaban": 7,
+          "horse_name": "キャナルタウン",
+          "predicted_score": 0.12159209642528274,
+          "odds": 5.5,
+          "popularity": 3
+        },
+        {
+          "rank": 4,
+          "umaban": 2,
+          "horse_name": "オルトゥス",
+          "predicted_score": 0.12132902358019104,
+          "odds": 5.7,
+          "popularity": 4
+        },
+        {
+          "rank": 5,
+          "umaban": 3,
+          "horse_name": "ロイヤルヴェイズ",
+          "predicted_score": -0.00738491284268941,
+          "odds": 7.0,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 5,
+          "horse_name": "アドマイヤミラ",
+          "predicted_score": -0.08372611323603195,
+          "odds": 9.0,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 1,
+          "horse_name": "ショウナンサザン",
+          "predicted_score": -0.32731429010154295,
+          "odds": 21.5,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 4,
+          "horse_name": "ベルウッドイタル",
+          "predicted_score": -0.6186307043281037,
+          "odds": 55.1,
+          "popularity": 8
+        }
+      ]
+    },
+    {
+      "race_id": "202605041106",
       "race_name": "３歳以上１勝クラス",
       "venue": "東京",
       "race_num": 6,
-      "post_time": "12:40",
+      "post_time": "12:50",
       "race_class": "1勝クラス",
       "course_type": "ダート",
-      "distance_m": 2100,
+      "distance_m": 1400,
+      "direction": "左",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 9,
+          "horse_name": "ガラク",
+          "predicted_score": 0.25225605327663125,
+          "odds": 4.5,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 2,
+          "horse_name": "アンプイットアップ",
+          "predicted_score": 0.09519147767865238,
+          "odds": 5.8,
+          "popularity": 2
+        },
+        {
+          "rank": 3,
+          "umaban": 4,
+          "horse_name": "スーパーガール",
+          "predicted_score": 0.07889648089787778,
+          "odds": 6.0,
+          "popularity": 3
+        },
+        {
+          "rank": 4,
+          "umaban": 12,
+          "horse_name": "ゴーゴーパンチ",
+          "predicted_score": 0.06782650494143805,
+          "odds": 7.1,
+          "popularity": 4
+        },
+        {
+          "rank": 5,
+          "umaban": 8,
+          "horse_name": "ケイツープラ",
+          "predicted_score": 0.03310645055770516,
+          "odds": 8.2,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 3,
+          "horse_name": "ラエトゥス",
+          "predicted_score": -0.11754077168258308,
+          "odds": 12.5,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 1,
+          "horse_name": "スピニンググローブ",
+          "predicted_score": -0.21507375960435232,
+          "odds": 16.4,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 14,
+          "horse_name": "ヘルヴェティオス",
+          "predicted_score": -0.21507375960435232,
+          "odds": 16.4,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 11,
+          "horse_name": "イヌボウノアサヒ",
+          "predicted_score": -0.27608764181888157,
+          "odds": 18.0,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 7,
+          "horse_name": "ゴールドシーン",
+          "predicted_score": -0.27608764181888157,
+          "odds": 18.1,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 15,
+          "horse_name": "トワイライトビュー",
+          "predicted_score": -0.36623200033462516,
+          "odds": 23.6,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 10,
+          "horse_name": "コウユーニポポニコ",
+          "predicted_score": -0.4273557173895317,
+          "odds": 34.6,
+          "popularity": 12
+        },
+        {
+          "rank": 13,
+          "umaban": 5,
+          "horse_name": "エスシーレイジュ",
+          "predicted_score": -0.540531105269172,
+          "odds": 42.6,
+          "popularity": 13
+        },
+        {
+          "rank": 14,
+          "umaban": 6,
+          "horse_name": "トキメキジニア",
+          "predicted_score": -0.6984247876214441,
+          "odds": 82.0,
+          "popularity": 15
+        },
+        {
+          "rank": 15,
+          "umaban": 13,
+          "horse_name": "ソリッドベーシス",
+          "predicted_score": -0.6984247876214441,
+          "odds": 75.0,
+          "popularity": 14
+        }
+      ]
+    },
+    {
+      "race_id": "202605041107",
+      "race_name": "３歳以上１勝クラス",
+      "venue": "東京",
+      "race_num": 7,
+      "post_time": "13:20",
+      "race_class": "1勝クラス",
+      "course_type": "ダート",
+      "distance_m": 1600,
       "direction": "左",
       "track_condition": null,
       "weather": null,
@@ -565,1266 +724,759 @@
         {
           "rank": 1,
           "umaban": 11,
-          "horse_name": "ターフクリスタル",
-          "predicted_score": 0.2094581616376315,
-          "odds": 5.5,
-          "popularity": 2
-        },
-        {
-          "rank": 2,
-          "umaban": 10,
-          "horse_name": "ルシャルムール",
-          "predicted_score": 0.174328041413257,
-          "odds": 5.5,
+          "horse_name": "アンシュウマト",
+          "predicted_score": 0.25713736653501257,
+          "odds": 3.6,
           "popularity": 1
         },
         {
+          "rank": 2,
+          "umaban": 4,
+          "horse_name": "エドワードバローズ",
+          "predicted_score": 0.2245568227699982,
+          "odds": 4.2,
+          "popularity": 2
+        },
+        {
           "rank": 3,
-          "umaban": 8,
-          "horse_name": "ワンダーブリッツ",
-          "predicted_score": 0.13590503594889566,
-          "odds": 5.6,
+          "umaban": 3,
+          "horse_name": "キングクレオール",
+          "predicted_score": 0.08600854259526783,
+          "odds": 6.9,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 5,
-          "horse_name": "グランドスウェル",
-          "predicted_score": 0.06904149360527198,
-          "odds": 6.4,
+          "umaban": 12,
+          "horse_name": "インテルメディオ",
+          "predicted_score": 0.07617324025668744,
+          "odds": 7.0,
           "popularity": 4
         },
         {
           "rank": 5,
-          "umaban": 15,
-          "horse_name": "モデレートゲイル",
-          "predicted_score": 0.007567015054276065,
-          "odds": 9.0,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 16,
-          "horse_name": "タケルムサシ",
-          "predicted_score": -0.0769891934963193,
-          "odds": 10.9,
-          "popularity": 7
-        },
-        {
-          "rank": 7,
-          "umaban": 9,
-          "horse_name": "ピードモント",
-          "predicted_score": -0.07960115912837191,
-          "odds": 10.7,
+          "umaban": 5,
+          "horse_name": "カルネヴァーレ",
+          "predicted_score": -0.13765610254494476,
+          "odds": 12.6,
           "popularity": 6
         },
         {
+          "rank": 6,
+          "umaban": 9,
+          "horse_name": "レイズトワイライト",
+          "predicted_score": -0.1406324907463241,
+          "odds": 12.0,
+          "popularity": 5
+        },
+        {
+          "rank": 7,
+          "umaban": 13,
+          "horse_name": "コッレヴェッキオ",
+          "predicted_score": -0.21507375960435232,
+          "odds": 16.3,
+          "popularity": 7
+        },
+        {
           "rank": 8,
-          "umaban": 12,
-          "horse_name": "クアッドフォルツァ",
-          "predicted_score": -0.1556377737351603,
-          "odds": 13.4,
+          "umaban": 7,
+          "horse_name": "タイセツナヒ",
+          "predicted_score": -0.23908874975355104,
+          "odds": 17.7,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 1,
-          "horse_name": "ソニックキャット",
-          "predicted_score": -0.2927150686003783,
-          "odds": 20.5,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 14,
-          "horse_name": "ブレイクザアイス",
-          "predicted_score": -0.368284135604178,
-          "odds": 28.5,
-          "popularity": 11
-        },
-        {
-          "rank": 11,
-          "umaban": 3,
-          "horse_name": "オルブライト",
-          "predicted_score": -0.37801014722553183,
-          "odds": 26.7,
+          "umaban": 6,
+          "horse_name": "コスモシェルベット",
+          "predicted_score": -0.3743277911573821,
+          "odds": 30.1,
           "popularity": 10
         },
         {
+          "rank": 10,
+          "umaban": 1,
+          "horse_name": "シンギュラリティ",
+          "predicted_score": -0.3750813312207391,
+          "odds": 26.6,
+          "popularity": 9
+        },
+        {
+          "rank": 11,
+          "umaban": 10,
+          "horse_name": "アルプスオジョー",
+          "predicted_score": -0.430930812987079,
+          "odds": 33.4,
+          "popularity": 11
+        },
+        {
           "rank": 12,
-          "umaban": 2,
-          "horse_name": "ジオストラテジー",
-          "predicted_score": -0.511464235543191,
-          "odds": 40.4,
+          "umaban": 14,
+          "horse_name": "ライフイズ",
+          "predicted_score": -0.43111418694169806,
+          "odds": 33.4,
           "popularity": 12
         },
         {
           "rank": 13,
-          "umaban": 4,
-          "horse_name": "カイトヴィント",
+          "umaban": 2,
+          "horse_name": "ペイトー",
           "predicted_score": -0.6074589815797233,
           "odds": 52.9,
           "popularity": 13
         },
         {
           "rank": 14,
-          "umaban": 7,
-          "horse_name": "エクセルクラウン",
-          "predicted_score": -0.6984247876214441,
-          "odds": 89.5,
-          "popularity": 15
+          "umaban": 8,
+          "horse_name": "ポタリング",
+          "predicted_score": -0.6186307043281037,
+          "odds": 57.4,
+          "popularity": 14
         },
         {
           "rank": 15,
-          "umaban": 6,
-          "horse_name": "カサビセンス",
+          "umaban": 15,
+          "horse_name": "ベイビールビオ",
           "predicted_score": -0.6984247876214441,
-          "odds": 76.5,
-          "popularity": 14
+          "odds": 105.9,
+          "popularity": 15
         }
       ]
     },
     {
-      "race_id": "202605041007",
-      "race_name": "３歳以上１勝クラス",
-      "venue": "東京",
-      "race_num": 7,
-      "post_time": "13:10",
-      "race_class": "1勝クラス",
-      "course_type": "芝",
-      "distance_m": 2000,
-      "direction": "左",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 3,
-          "horse_name": "ホールドザデイ",
-          "predicted_score": 0.40345671243019654,
-          "odds": 2.9,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 5,
-          "horse_name": "ランザワールド",
-          "predicted_score": 0.2344706557717973,
-          "odds": 3.3,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 6,
-          "horse_name": "ジーティーメティオ",
-          "predicted_score": 0.1347967488373273,
-          "odds": 4.5,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 2,
-          "horse_name": "キアラメンテ",
-          "predicted_score": -0.01725332995954673,
-          "odds": 9.2,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 8,
-          "horse_name": "ミッキーマーメイド",
-          "predicted_score": -0.1560040150387683,
-          "odds": 11.5,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 4,
-          "horse_name": "シェーンシュティア",
-          "predicted_score": -0.22754035548229873,
-          "odds": 16.5,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 10,
-          "horse_name": "ディヒターリーベ",
-          "predicted_score": -0.23686612447344016,
-          "odds": 17.5,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 9,
-          "horse_name": "カンティーナ",
-          "predicted_score": -0.5057391588714101,
-          "odds": 37.1,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 7,
-          "horse_name": "ハーディジェナー",
-          "predicted_score": -0.511464235543191,
-          "odds": 37.8,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 11,
-          "horse_name": "オプレントジュエル",
-          "predicted_score": -0.6074589815797233,
-          "odds": 52.8,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 1,
-          "horse_name": "デイズインザサン",
-          "predicted_score": -0.6984247876214441,
-          "odds": 103.3,
-          "popularity": 11
-        }
-      ]
-    },
-    {
-      "race_id": "202605041008",
-      "race_name": "３歳以上２勝クラス",
+      "race_id": "202605041108",
+      "race_name": "本栖湖特別(2勝クラス)",
       "venue": "東京",
       "race_num": 8,
-      "post_time": "13:45",
-      "race_class": "2勝クラス",
-      "course_type": "ダート",
-      "distance_m": 1400,
-      "direction": "左",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 7,
-          "horse_name": "ヘリテージブルーム",
-          "predicted_score": 0.5465175642334429,
-          "odds": 2.9,
-          "popularity": 2
-        },
-        {
-          "rank": 2,
-          "umaban": 3,
-          "horse_name": "ダイシンリンク",
-          "predicted_score": 0.3853033062317258,
-          "odds": 2.1,
-          "popularity": 1
-        },
-        {
-          "rank": 3,
-          "umaban": 13,
-          "horse_name": "アクアマリーナ",
-          "predicted_score": -0.11941580060019234,
-          "odds": 11.7,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 11,
-          "horse_name": "ミライテーラー",
-          "predicted_score": -0.16271135370571568,
-          "odds": 13.1,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 10,
-          "horse_name": "ヴィンブルレー",
-          "predicted_score": -0.16444786396330197,
-          "odds": 14.5,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 6,
-          "horse_name": "レジーナローズ",
-          "predicted_score": -0.36623200033462516,
-          "odds": 25.6,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 2,
-          "horse_name": "プレダトゥール",
-          "predicted_score": -0.37558328405678126,
-          "odds": 29.2,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 1,
-          "horse_name": "スーパーバイザー",
-          "predicted_score": -0.430177272923722,
-          "odds": 33.4,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 12,
-          "horse_name": "パープルナイト",
-          "predicted_score": -0.5044075524879944,
-          "odds": 40.0,
-          "popularity": 11
-        },
-        {
-          "rank": 10,
-          "umaban": 4,
-          "horse_name": "ベルメサイア",
-          "predicted_score": -0.5044836659720109,
-          "odds": 37.9,
-          "popularity": 9
-        },
-        {
-          "rank": 11,
-          "umaban": 5,
-          "horse_name": "レディサン",
-          "predicted_score": -0.5127197284425902,
-          "odds": 39.4,
-          "popularity": 10
-        },
-        {
-          "rank": 12,
-          "umaban": 8,
-          "horse_name": "メモリーグラス",
-          "predicted_score": -0.6186307043281037,
-          "odds": 63.7,
-          "popularity": 12
-        },
-        {
-          "rank": 13,
-          "umaban": 9,
-          "horse_name": "トーホウキザン",
-          "predicted_score": -0.664855280033905,
-          "odds": 73.5,
-          "popularity": 13
-        }
-      ]
-    },
-    {
-      "race_id": "202605041009",
-      "race_name": "オキザリス賞(1勝クラス)",
-      "venue": "東京",
-      "race_num": 9,
-      "post_time": "14:20",
-      "race_class": null,
-      "course_type": "ダート",
-      "distance_m": 1400,
-      "direction": "左",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 4,
-          "horse_name": "ワンスフォーユー",
-          "predicted_score": 0.34718356310772364,
-          "odds": 2.5,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 13,
-          "horse_name": "ユイノエスポワール",
-          "predicted_score": 0.26588701443525803,
-          "odds": 3.4,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 3,
-          "horse_name": "スマートブライド",
-          "predicted_score": -0.02406074485710695,
-          "odds": 8.7,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 7,
-          "horse_name": "イトウカカリチョウ",
-          "predicted_score": -0.05831827650541029,
-          "odds": 9.1,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 1,
-          "horse_name": "マイスターシューズ",
-          "predicted_score": -0.10398893322667686,
-          "odds": 10.7,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 9,
-          "horse_name": "スマートポーション",
-          "predicted_score": -0.1812791644087251,
-          "odds": 14.7,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 8,
-          "horse_name": "アレックスケー",
-          "predicted_score": -0.36623200033462516,
-          "odds": 23.9,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 6,
-          "horse_name": "マリノエスプレッソ",
-          "predicted_score": -0.4286873237729474,
-          "odds": 33.4,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 2,
-          "horse_name": "コパノキラキラ",
-          "predicted_score": -0.5057391588714101,
-          "odds": 39.1,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 5,
-          "horse_name": "クロリス",
-          "predicted_score": -0.5944862601427693,
-          "odds": 48.4,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 14,
-          "horse_name": "ニシノイサリビ",
-          "predicted_score": -0.5944862601427693,
-          "odds": 50.6,
-          "popularity": 11
-        },
-        {
-          "rank": 12,
-          "umaban": 10,
-          "horse_name": "モミスケ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 60.4,
-          "popularity": 13
-        },
-        {
-          "rank": 13,
-          "umaban": 11,
-          "horse_name": "ソラティオ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 57.7,
-          "popularity": 12
-        },
-        {
-          "rank": 14,
-          "umaban": 12,
-          "horse_name": "グラスラリー",
-          "predicted_score": -0.6984247876214441,
-          "odds": 101.2,
-          "popularity": 14
-        }
-      ]
-    },
-    {
-      "race_id": "202605041010",
-      "race_name": "国立特別(2勝クラス)",
-      "venue": "東京",
-      "race_num": 10,
-      "post_time": "14:55",
+      "post_time": "13:50",
       "race_class": null,
       "course_type": "芝",
-      "distance_m": 1600,
+      "distance_m": 2400,
       "direction": "左",
       "track_condition": null,
       "weather": null,
       "predictions": [
         {
           "rank": 1,
-          "umaban": 7,
-          "horse_name": "フジガイフウ",
-          "predicted_score": 0.4620166051078926,
-          "odds": 2.9,
-          "popularity": 2
-        },
-        {
-          "rank": 2,
-          "umaban": 3,
-          "horse_name": "シャンソンドール",
-          "predicted_score": 0.34718356310772364,
-          "odds": 2.8,
-          "popularity": 1
-        },
-        {
-          "rank": 3,
           "umaban": 4,
-          "horse_name": "キシダンチョウ",
-          "predicted_score": 0.0516531696875109,
-          "odds": 6.7,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 10,
-          "horse_name": "クールデイトナ",
-          "predicted_score": 0.03364359991109796,
-          "odds": 8.5,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 8,
-          "horse_name": "パワースナッチ",
-          "predicted_score": -0.03646367625415806,
-          "odds": 10.5,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 1,
-          "horse_name": "ケイケイ",
-          "predicted_score": -0.15732481802071102,
-          "odds": 14.2,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 5,
-          "horse_name": "シャンパンマーク",
-          "predicted_score": -0.1812791644087251,
-          "odds": 15.6,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 6,
-          "horse_name": "シャイニースイフト",
-          "predicted_score": -0.3730291959511863,
-          "odds": 21.9,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 2,
-          "horse_name": "ブライティアダイヤ",
-          "predicted_score": -0.6984247876214441,
-          "odds": 91.8,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 9,
-          "horse_name": "ホークマン",
-          "predicted_score": -0.6984247876214441,
-          "odds": 91.8,
-          "popularity": 10
-        }
-      ]
-    },
-    {
-      "race_id": "202605041011",
-      "race_name": "ペルセウスＳ(OP)",
-      "venue": "東京",
-      "race_num": 11,
-      "post_time": "15:30",
-      "race_class": "オープン",
-      "course_type": "ダート",
-      "distance_m": 1600,
-      "direction": "左",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 16,
-          "horse_name": "ピエマンソン",
-          "predicted_score": 0.24121824520218635,
-          "odds": 4.5,
+          "horse_name": "ミッキーファルコン",
+          "predicted_score": 0.5052729159947167,
+          "odds": 2.3,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 12,
-          "horse_name": "クレーキング",
-          "predicted_score": 0.01469660572281797,
-          "odds": 6.1,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 6,
-          "horse_name": "ジェイパームス",
-          "predicted_score": 0.011137269363203499,
-          "odds": 7.7,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 14,
-          "horse_name": "ナイトアクアリウム",
-          "predicted_score": 0.006612282257582517,
-          "odds": 8.8,
-          "popularity": 6
-        },
-        {
-          "rank": 5,
-          "umaban": 9,
-          "horse_name": "リサシテーション",
-          "predicted_score": -0.00023045840938458386,
-          "odds": 8.7,
-          "popularity": 4
-        },
-        {
-          "rank": 6,
-          "umaban": 13,
-          "horse_name": "クールブロン",
-          "predicted_score": -0.00023045840938458386,
-          "odds": 8.8,
-          "popularity": 5
-        },
-        {
-          "rank": 7,
-          "umaban": 5,
-          "horse_name": "イムホテプ",
-          "predicted_score": -0.07219397497585407,
-          "odds": 10.9,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 7,
-          "horse_name": "シュラザック",
-          "predicted_score": -0.17797917720509962,
-          "odds": 13.1,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 10,
-          "horse_name": "アドマイヤデイトナ",
-          "predicted_score": -0.2946641487488162,
-          "odds": 20.2,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 8,
-          "horse_name": "ハワイアンタイム",
-          "predicted_score": -0.3280075968821638,
-          "odds": 21.1,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 3,
-          "horse_name": "ロードラビリンス",
-          "predicted_score": -0.38536011429494965,
-          "odds": 27.7,
-          "popularity": 11
-        },
-        {
-          "rank": 12,
-          "umaban": 15,
-          "horse_name": "ショウナンライシン",
-          "predicted_score": -0.540531105269172,
-          "odds": 43.2,
-          "popularity": 12
-        },
-        {
-          "rank": 13,
           "umaban": 2,
-          "horse_name": "シーズンリッチ",
-          "predicted_score": -0.5605706796979564,
-          "odds": 45.2,
-          "popularity": 13
-        },
-        {
-          "rank": 14,
-          "umaban": 4,
-          "horse_name": "サフランヒーロー",
-          "predicted_score": -0.6074589815797233,
-          "odds": 52.7,
-          "popularity": 14
-        },
-        {
-          "rank": 15,
-          "umaban": 1,
-          "horse_name": "ハセドン",
-          "predicted_score": -0.6074589815797233,
-          "odds": 53.0,
-          "popularity": 15
-        },
-        {
-          "rank": 16,
-          "umaban": 11,
-          "horse_name": "エスカル",
-          "predicted_score": -0.6186307043281037,
-          "odds": 65.5,
-          "popularity": 16
-        }
-      ]
-    },
-    {
-      "race_id": "202605041012",
-      "race_name": "３歳以上１勝クラス",
-      "venue": "東京",
-      "race_num": 12,
-      "post_time": "16:15",
-      "race_class": "1勝クラス",
-      "course_type": "芝",
-      "distance_m": 1800,
-      "direction": "左",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 7,
-          "horse_name": "ラヴェニュー",
-          "predicted_score": 0.35102260130540475,
-          "odds": 2.6,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 12,
-          "horse_name": "ヴァロアーク",
-          "predicted_score": 0.18352564509454067,
-          "odds": 4.8,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 10,
-          "horse_name": "オルグジェシダ",
-          "predicted_score": 0.09229734237922113,
-          "odds": 6.2,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 8,
-          "horse_name": "アメテュストス",
-          "predicted_score": -0.08013217238463975,
-          "odds": 10.5,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 5,
-          "horse_name": "マイネルグレート",
-          "predicted_score": -0.15829249712518195,
-          "odds": 12.0,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 2,
-          "horse_name": "ダイユウアレグロ",
-          "predicted_score": -0.1609169398971426,
-          "odds": 14.5,
-          "popularity": 7
-        },
-        {
-          "rank": 7,
-          "umaban": 6,
-          "horse_name": "ラッキーストーン",
-          "predicted_score": -0.17484013580912477,
-          "odds": 13.1,
-          "popularity": 6
-        },
-        {
-          "rank": 8,
-          "umaban": 3,
-          "horse_name": "ボニープリンス",
-          "predicted_score": -0.27608764181888157,
-          "odds": 18.1,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 4,
-          "horse_name": "アイムイン",
-          "predicted_score": -0.33005973215171663,
-          "odds": 20.9,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 9,
-          "horse_name": "セーヌデローヴ",
-          "predicted_score": -0.3783795447237695,
-          "odds": 28.4,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 11,
-          "horse_name": "フリーガー",
-          "predicted_score": -0.4379113825582592,
-          "odds": 32.8,
-          "popularity": 11
-        },
-        {
-          "rank": 12,
-          "umaban": 1,
-          "horse_name": "フィクセルリリア",
-          "predicted_score": -0.6186307043281037,
-          "odds": 63.3,
-          "popularity": 12
-        }
-      ]
-    },
-    {
-      "race_id": "202608041001",
-      "race_name": "２歳未勝利",
-      "venue": "京都",
-      "race_num": 1,
-      "post_time": "10:05",
-      "race_class": "未勝利",
-      "course_type": "ダート",
-      "distance_m": 1400,
-      "direction": "右",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 5,
-          "horse_name": "マルモリマイベスト",
-          "predicted_score": 0.3589507463102003,
-          "odds": 2.4,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 14,
-          "horse_name": "ピコジャック",
-          "predicted_score": 0.010345200509908593,
-          "odds": 8.7,
-          "popularity": 3
-        },
-        {
-          "rank": 3,
-          "umaban": 1,
-          "horse_name": "スリーオブスペイズ",
-          "predicted_score": 0.0011749288317204583,
-          "odds": 8.7,
-          "popularity": 2
-        },
-        {
-          "rank": 4,
-          "umaban": 9,
-          "horse_name": "エアロクリスタ",
-          "predicted_score": -0.05749201172536248,
-          "odds": 9.1,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 7,
-          "horse_name": "シムサラビン",
-          "predicted_score": -0.09086253500373837,
-          "odds": 9.8,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 13,
-          "horse_name": "ジャスコヒラリアス",
-          "predicted_score": -0.16635124336441354,
-          "odds": 14.3,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 8,
-          "horse_name": "ベラジオセブン",
-          "predicted_score": -0.19631289683334865,
-          "odds": 16.0,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 10,
-          "horse_name": "ダイユウエゾフジ",
-          "predicted_score": -0.23686612447344016,
-          "odds": 17.0,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 12,
-          "horse_name": "アセンシオン",
-          "predicted_score": -0.23969217150451483,
-          "odds": 17.2,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 16,
-          "horse_name": "ヴァルダンセ",
-          "predicted_score": -0.2680752012774177,
-          "odds": 18.7,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 11,
-          "horse_name": "エリーマイラヴ",
-          "predicted_score": -0.5113881220591745,
-          "odds": 37.2,
-          "popularity": 11
-        },
-        {
-          "rank": 12,
-          "umaban": 3,
-          "horse_name": "ウィナーズクロノ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 55.9,
-          "popularity": 12
-        },
-        {
-          "rank": 13,
-          "umaban": 4,
-          "horse_name": "ランズエンド",
-          "predicted_score": -0.6186307043281037,
-          "odds": 59.1,
-          "popularity": 13
-        },
-        {
-          "rank": 14,
-          "umaban": 6,
-          "horse_name": "ピエナマーズ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 59.8,
-          "popularity": 14
-        },
-        {
-          "rank": 15,
-          "umaban": 15,
-          "horse_name": "ヤマトデュノール",
-          "predicted_score": -0.6984247876214441,
-          "odds": 91.4,
-          "popularity": 15
-        },
-        {
-          "rank": 16,
-          "umaban": 2,
-          "horse_name": "ゴールドアーク",
-          "predicted_score": -0.8194195345105473,
-          "odds": 135.9,
-          "popularity": 16
-        }
-      ]
-    },
-    {
-      "race_id": "202608041002",
-      "race_name": "２歳未勝利",
-      "venue": "京都",
-      "race_num": 2,
-      "post_time": "10:35",
-      "race_class": "未勝利",
-      "course_type": "芝",
-      "distance_m": 1600,
-      "direction": "右",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 9,
-          "horse_name": "コンセルノ",
-          "predicted_score": 0.40100672014393063,
-          "odds": 2.4,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 6,
-          "horse_name": "ラガッタレアーレ",
-          "predicted_score": 0.3791113354361284,
-          "odds": 2.8,
-          "popularity": 2
-        },
-        {
-          "rank": 3,
-          "umaban": 8,
-          "horse_name": "ダディーズレガリア",
-          "predicted_score": 0.07310109326354745,
-          "odds": 7.0,
-          "popularity": 3
-        },
-        {
-          "rank": 4,
-          "umaban": 7,
-          "horse_name": "ヒノトリ",
-          "predicted_score": 0.015380707094207397,
-          "odds": 8.8,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
-          "umaban": 1,
-          "horse_name": "フクノブルースカイ",
-          "predicted_score": -0.13970822460674476,
-          "odds": 12.2,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 5,
-          "horse_name": "サウンドアミューズ",
-          "predicted_score": -0.16096470767940887,
-          "odds": 13.4,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 10,
-          "horse_name": "トゥルーライフ",
-          "predicted_score": -0.36623200033462516,
-          "odds": 25.6,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 2,
-          "horse_name": "ルガルデ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 54.0,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 3,
-          "horse_name": "ナムラサフラン",
-          "predicted_score": -0.6984247876214441,
-          "odds": 80.2,
-          "popularity": 10
-        },
-        {
-          "rank": 10,
-          "umaban": 4,
-          "horse_name": "ジューンルル",
-          "predicted_score": -0.6984247876214441,
-          "odds": 78.7,
-          "popularity": 9
-        }
-      ]
-    },
-    {
-      "race_id": "202608041003",
-      "race_name": "２歳未勝利",
-      "venue": "京都",
-      "race_num": 3,
-      "post_time": "11:05",
-      "race_class": "未勝利",
-      "course_type": "芝",
-      "distance_m": 1800,
-      "direction": "右",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 7,
-          "horse_name": "ディープリメンバー",
-          "predicted_score": 0.37129422782615024,
-          "odds": 2.5,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 8,
-          "horse_name": "アイオリスパルス",
-          "predicted_score": 0.245482248477403,
+          "horse_name": "プレイザリード",
+          "predicted_score": 0.2541733266135976,
           "odds": 4.2,
           "popularity": 2
         },
         {
           "rank": 3,
-          "umaban": 4,
-          "horse_name": "ポカポカヨウキ",
-          "predicted_score": 0.17676220795903522,
-          "odds": 4.4,
+          "umaban": 6,
+          "horse_name": "イブキ",
+          "predicted_score": 0.16393879835461397,
+          "odds": 4.3,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 5,
-          "horse_name": "ブラックミューズ",
-          "predicted_score": 0.14002743319156236,
-          "odds": 4.5,
+          "umaban": 7,
+          "horse_name": "ノチェセラーダ",
+          "predicted_score": 0.14047576700788325,
+          "odds": 4.6,
           "popularity": 4
         },
         {
           "rank": 5,
           "umaban": 1,
-          "horse_name": "シルクウォード",
-          "predicted_score": -0.09206253352738217,
-          "odds": 10.9,
+          "horse_name": "ピックデムッシュ",
+          "predicted_score": -0.17885519070451042,
+          "odds": 13.0,
           "popularity": 5
         },
         {
           "rank": 6,
           "umaban": 3,
-          "horse_name": "メメヤンチャヒメ",
-          "predicted_score": -0.3813083607285622,
-          "odds": 29.0,
+          "horse_name": "ワンモアスマイル",
+          "predicted_score": -0.511464235543191,
+          "odds": 37.5,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 6,
-          "horse_name": "サントボーム",
-          "predicted_score": -0.44040991943974445,
-          "odds": 31.0,
+          "umaban": 5,
+          "horse_name": "ステラスペース",
+          "predicted_score": -0.5127197284425902,
+          "odds": 38.5,
           "popularity": 7
         },
         {
           "rank": 8,
-          "umaban": 2,
-          "horse_name": "ウィリーウィリー",
-          "predicted_score": -0.664855280033905,
-          "odds": 70.7,
+          "umaban": 8,
+          "horse_name": "サイモンルモンド",
+          "predicted_score": -0.6984247876214441,
+          "odds": 77.1,
           "popularity": 8
         }
       ]
     },
     {
-      "race_id": "202608041005",
-      "race_name": "２歳新馬",
-      "venue": "京都",
-      "race_num": 5,
-      "post_time": "12:25",
-      "race_class": "新馬",
+      "race_id": "202605041109",
+      "race_name": "紅葉Ｓ(3勝クラス)",
+      "venue": "東京",
+      "race_num": 9,
+      "post_time": "14:25",
+      "race_class": null,
       "course_type": "芝",
-      "distance_m": 2000,
-      "direction": "右",
+      "distance_m": 1600,
+      "direction": "左",
       "track_condition": null,
       "weather": null,
       "predictions": [
         {
           "rank": 1,
-          "umaban": 10,
-          "horse_name": "フォコンノワール",
-          "predicted_score": 0.2714599898593316,
-          "odds": 3.6,
-          "popularity": 2
-        },
-        {
-          "rank": 2,
-          "umaban": 5,
-          "horse_name": "アンドロニクス",
-          "predicted_score": 0.23035024551083175,
+          "umaban": 1,
+          "horse_name": "ミッキーソルジャー",
+          "predicted_score": 0.2664038079292956,
           "odds": 3.6,
           "popularity": 1
         },
         {
+          "rank": 2,
+          "umaban": 7,
+          "horse_name": "エルハーベン",
+          "predicted_score": 0.23563713630196936,
+          "odds": 4.7,
+          "popularity": 2
+        },
+        {
           "rank": 3,
-          "umaban": 9,
-          "horse_name": "オーバーアゲイン",
-          "predicted_score": 0.1477412540792855,
-          "odds": 5.1,
+          "umaban": 10,
+          "horse_name": "ガリレア",
+          "predicted_score": 0.031901584450775504,
+          "odds": 8.6,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 1,
-          "horse_name": "ソトッキー",
-          "predicted_score": 0.0015188838979083652,
-          "odds": 6.8,
+          "umaban": 14,
+          "horse_name": "ウフドゥウフ",
+          "predicted_score": 0.008794896850830344,
+          "odds": 9.0,
           "popularity": 4
         },
         {
           "rank": 5,
-          "umaban": 2,
-          "horse_name": "フェイムシーカー",
-          "predicted_score": -0.17214081542315976,
-          "odds": 11.5,
+          "umaban": 3,
+          "horse_name": "コムユンプリュム",
+          "predicted_score": -0.04117870987780797,
+          "odds": 10.6,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 8,
-          "horse_name": "メイショウイロドリ",
-          "predicted_score": -0.19631289683334865,
-          "odds": 15.3,
+          "umaban": 4,
+          "horse_name": "マクリール",
+          "predicted_score": -0.10983130126439414,
+          "odds": 11.6,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 4,
-          "horse_name": "アントレピード",
-          "predicted_score": -0.26200669236806623,
-          "odds": 17.3,
+          "umaban": 9,
+          "horse_name": "エルマーゴ",
+          "predicted_score": -0.13396258793615765,
+          "odds": 12.0,
           "popularity": 7
         },
         {
           "rank": 8,
-          "umaban": 11,
-          "horse_name": "ヒロノリホープ",
-          "predicted_score": -0.2999910826930648,
-          "odds": 20.5,
+          "umaban": 6,
+          "horse_name": "テラメリタ",
+          "predicted_score": -0.15249873233918546,
+          "odds": 12.9,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 3,
-          "horse_name": "トゥーリ",
-          "predicted_score": -0.38661560719434884,
-          "odds": 30.3,
+          "umaban": 11,
+          "horse_name": "サトミノキラリ",
+          "predicted_score": -0.28549142971757513,
+          "odds": 19.0,
           "popularity": 9
         },
         {
           "rank": 10,
-          "umaban": 7,
-          "horse_name": "デルマクズリュウ",
-          "predicted_score": -0.43971964691051496,
-          "odds": 32.6,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 6,
-          "horse_name": "フラワーマーチ",
-          "predicted_score": -0.6186307043281037,
-          "odds": 58.2,
+          "umaban": 13,
+          "horse_name": "アルデトップガン",
+          "predicted_score": -0.368284135604178,
+          "odds": 25.0,
           "popularity": 11
         },
         {
+          "rank": 11,
+          "umaban": 2,
+          "horse_name": "マテンロウブラボー",
+          "predicted_score": -0.37526470517535815,
+          "odds": 22.0,
+          "popularity": 10
+        },
+        {
           "rank": 12,
-          "umaban": 12,
-          "horse_name": "ホウオウトリリオン",
-          "predicted_score": -0.666700943801813,
-          "odds": 69.1,
+          "umaban": 8,
+          "horse_name": "ショウナンアレクサ",
+          "predicted_score": -0.43971964691051496,
+          "odds": 34.8,
           "popularity": 12
         },
         {
           "rank": 13,
-          "umaban": 13,
-          "horse_name": "マンハッタンモーン",
-          "predicted_score": -0.7002704513893521,
-          "odds": 99.8,
+          "umaban": 5,
+          "horse_name": "コスモアンソロジー",
+          "predicted_score": -0.6186307043281037,
+          "odds": 64.0,
           "popularity": 13
+        },
+        {
+          "rank": 14,
+          "umaban": 12,
+          "horse_name": "ブランデーロック",
+          "predicted_score": -0.7002704513893521,
+          "odds": 76.2,
+          "popularity": 14
         }
       ]
     },
     {
-      "race_id": "202608041006",
-      "race_name": "２歳新馬",
+      "race_id": "202605041110",
+      "race_name": "秋嶺Ｓ(3勝クラス)",
+      "venue": "東京",
+      "race_num": 10,
+      "post_time": "15:00",
+      "race_class": null,
+      "course_type": "ダート",
+      "distance_m": 1300,
+      "direction": "左",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 9,
+          "horse_name": "プルメリアリノ",
+          "predicted_score": 0.2721476703572623,
+          "odds": 3.0,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 2,
+          "horse_name": "タマモティーカップ",
+          "predicted_score": 0.21052099431279442,
+          "odds": 5.5,
+          "popularity": 2
+        },
+        {
+          "rank": 3,
+          "umaban": 13,
+          "horse_name": "イノセントキャット",
+          "predicted_score": 0.04083993536069453,
+          "odds": 7.6,
+          "popularity": 3
+        },
+        {
+          "rank": 4,
+          "umaban": 7,
+          "horse_name": "オカメノコイ",
+          "predicted_score": 0.02962764410169611,
+          "odds": 8.1,
+          "popularity": 4
+        },
+        {
+          "rank": 5,
+          "umaban": 12,
+          "horse_name": "クインズデネブ",
+          "predicted_score": -0.03771127406712409,
+          "odds": 11.1,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 4,
+          "horse_name": "レッドラパルマ",
+          "predicted_score": -0.17797917720509962,
+          "odds": 13.1,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 10,
+          "horse_name": "メイショウツヨキ",
+          "predicted_score": -0.1812791644087251,
+          "odds": 14.9,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 5,
+          "horse_name": "フェンダー",
+          "predicted_score": -0.18381033165647176,
+          "odds": 15.1,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 6,
+          "horse_name": "トーアジョウトウ",
+          "predicted_score": -0.2627482673331692,
+          "odds": 18.3,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 16,
+          "horse_name": "ナッカーフェイス",
+          "predicted_score": -0.38206190079191926,
+          "odds": 27.7,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 14,
+          "horse_name": "レイズカイザー",
+          "predicted_score": -0.5113881220591745,
+          "odds": 39.8,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 15,
+          "horse_name": "アイアムユウシュン",
+          "predicted_score": -0.540531105269172,
+          "odds": 43.3,
+          "popularity": 12
+        },
+        {
+          "rank": 13,
+          "umaban": 3,
+          "horse_name": "ウィステリアリヴァ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 66.4,
+          "popularity": 14
+        },
+        {
+          "rank": 14,
+          "umaban": 11,
+          "horse_name": "コパノヴィンセント",
+          "predicted_score": -0.6186307043281037,
+          "odds": 60.0,
+          "popularity": 13
+        },
+        {
+          "rank": 15,
+          "umaban": 8,
+          "horse_name": "スプランドゥール",
+          "predicted_score": -0.6984247876214441,
+          "odds": 77.5,
+          "popularity": 15
+        },
+        {
+          "rank": 16,
+          "umaban": 1,
+          "horse_name": "アイファースキャン",
+          "predicted_score": -0.7002704513893521,
+          "odds": 93.6,
+          "popularity": 16
+        }
+      ]
+    },
+    {
+      "race_id": "202605041111",
+      "race_name": "天皇賞（秋）(G1)",
+      "venue": "東京",
+      "race_num": 11,
+      "post_time": "15:40",
+      "race_class": "オープン",
+      "course_type": "芝",
+      "distance_m": 2000,
+      "direction": "左",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 1,
+          "horse_name": "クロワデュノール",
+          "predicted_score": 0.3903701641381411,
+          "odds": 2.7,
+          "popularity": 2
+        },
+        {
+          "rank": 2,
+          "umaban": 7,
+          "horse_name": "マスカレードボール",
+          "predicted_score": 0.34718356310772364,
+          "odds": 2.6,
+          "popularity": 1
+        },
+        {
+          "rank": 3,
+          "umaban": 3,
+          "horse_name": "レガレイラ",
+          "predicted_score": -0.0376768119509179,
+          "odds": 8.5,
+          "popularity": 3
+        },
+        {
+          "rank": 4,
+          "umaban": 11,
+          "horse_name": "シェイクユアハート",
+          "predicted_score": -0.04948843967006443,
+          "odds": 10.4,
+          "popularity": 5
+        },
+        {
+          "rank": 5,
+          "umaban": 17,
+          "horse_name": "ダノンデサイル",
+          "predicted_score": -0.07005650636230708,
+          "odds": 10.0,
+          "popularity": 4
+        },
+        {
+          "rank": 6,
+          "umaban": 6,
+          "horse_name": "セイウンハーデス",
+          "predicted_score": -0.36897744238479885,
+          "odds": 24.1,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 13,
+          "horse_name": "リアライズシリウス",
+          "predicted_score": -0.4241336173705179,
+          "odds": 30.9,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 10,
+          "horse_name": "ネブラディスク",
+          "predicted_score": -0.5944862601427693,
+          "odds": 47.0,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 4,
+          "horse_name": "レディネス",
+          "predicted_score": -0.6186307043281037,
+          "odds": 54.7,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 16,
+          "horse_name": "ジョバンニ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 54.9,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 9,
+          "horse_name": "ホウオウビスケッツ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 61.3,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 15,
+          "horse_name": "サクラファレル",
+          "predicted_score": -0.6984247876214441,
+          "odds": 97.1,
+          "popularity": 12
+        },
+        {
+          "rank": 13,
+          "umaban": 12,
+          "horse_name": "コスモキュランダ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 102.4,
+          "popularity": 13
+        },
+        {
+          "rank": 14,
+          "umaban": 14,
+          "horse_name": "タガノデュード",
+          "predicted_score": -0.6984247876214441,
+          "odds": 109.7,
+          "popularity": 14
+        },
+        {
+          "rank": 15,
+          "umaban": 5,
+          "horse_name": "シャンパンカラー",
+          "predicted_score": -0.8194195345105473,
+          "odds": 162.7,
+          "popularity": 15
+        },
+        {
+          "rank": 16,
+          "umaban": 8,
+          "horse_name": "ジュンブロッサム",
+          "predicted_score": -0.8380263924820178,
+          "odds": 226.5,
+          "popularity": 17
+        },
+        {
+          "rank": 17,
+          "umaban": 2,
+          "horse_name": "エルトンバローズ",
+          "predicted_score": -0.8380263924820178,
+          "odds": 220.2,
+          "popularity": 16
+        }
+      ]
+    },
+    {
+      "race_id": "202605041112",
+      "race_name": "清里特別(2勝クラス)",
+      "venue": "東京",
+      "race_num": 12,
+      "post_time": "16:25",
+      "race_class": null,
+      "course_type": "ダート",
+      "distance_m": 1600,
+      "direction": "左",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 8,
+          "horse_name": "スマートスピア",
+          "predicted_score": 0.2839712282016954,
+          "odds": 3.2,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 3,
+          "horse_name": "ドントゥザムーン",
+          "predicted_score": 0.06264568577989978,
+          "odds": 7.2,
+          "popularity": 3
+        },
+        {
+          "rank": 3,
+          "umaban": 13,
+          "horse_name": "サマーマッドネス",
+          "predicted_score": 0.05588698252323959,
+          "odds": 7.5,
+          "popularity": 4
+        },
+        {
+          "rank": 4,
+          "umaban": 14,
+          "horse_name": "タマモカンパネラ",
+          "predicted_score": 0.03900274417885175,
+          "odds": 6.4,
+          "popularity": 2
+        },
+        {
+          "rank": 5,
+          "umaban": 4,
+          "horse_name": "スルーザナイト",
+          "predicted_score": -0.03463088902685868,
+          "odds": 10.0,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 2,
+          "horse_name": "ファンシーズ",
+          "predicted_score": -0.04473245833551326,
+          "odds": 10.6,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 9,
+          "horse_name": "キングツェッペリン",
+          "predicted_score": -0.15732481802071102,
+          "odds": 13.2,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 10,
+          "horse_name": "セイントエルモズ",
+          "predicted_score": -0.23746954622440394,
+          "odds": 16.8,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 1,
+          "horse_name": "フェスタリア",
+          "predicted_score": -0.23969217150451483,
+          "odds": 17.4,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 6,
+          "horse_name": "シャンハイナイト",
+          "predicted_score": -0.3800097655223664,
+          "odds": 27.3,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 5,
+          "horse_name": "レーヴドレフォン",
+          "predicted_score": -0.44315536148991813,
+          "odds": 32.9,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 7,
+          "horse_name": "アイファーバトル",
+          "predicted_score": -0.511464235543191,
+          "odds": 36.9,
+          "popularity": 12
+        },
+        {
+          "rank": 13,
+          "umaban": 12,
+          "horse_name": "レディゴディヴァ",
+          "predicted_score": -0.5605706796979564,
+          "odds": 44.9,
+          "popularity": 13
+        },
+        {
+          "rank": 14,
+          "umaban": 11,
+          "horse_name": "キョウエイスレーヴ",
+          "predicted_score": -0.6074589815797233,
+          "odds": 52.7,
+          "popularity": 14
+        }
+      ]
+    },
+    {
+      "race_id": "202608041101",
+      "race_name": "２歳未勝利",
       "venue": "京都",
-      "race_num": 6,
-      "post_time": "12:55",
-      "race_class": "新馬",
+      "race_num": 1,
+      "post_time": "09:45",
+      "race_class": "未勝利",
       "course_type": "ダート",
       "distance_m": 1400,
       "direction": "右",
@@ -1833,141 +1485,101 @@
       "predictions": [
         {
           "rank": 1,
-          "umaban": 10,
-          "horse_name": "スターシーカー",
-          "predicted_score": 0.5735724642063748,
-          "odds": 2.8,
+          "umaban": 6,
+          "horse_name": "ルージュミスティカ",
+          "predicted_score": 0.34985031994647103,
+          "odds": 2.5,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 8,
-          "horse_name": "ジーティーイレブン",
-          "predicted_score": 0.24169430454617294,
-          "odds": 4.5,
+          "umaban": 10,
+          "horse_name": "アヴレディール",
+          "predicted_score": 0.2575763627597012,
+          "odds": 3.7,
           "popularity": 2
         },
         {
           "rank": 3,
-          "umaban": 3,
-          "horse_name": "クローネンリーベ",
-          "predicted_score": 0.008632859754004069,
-          "odds": 7.4,
+          "umaban": 8,
+          "horse_name": "ジョワイエトワール",
+          "predicted_score": 0.16626535022207475,
+          "odds": 4.6,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 12,
-          "horse_name": "ホーフアイゼン",
-          "predicted_score": -0.10128840446934063,
-          "odds": 9.4,
+          "umaban": 2,
+          "horse_name": "ラッキーハナコ",
+          "predicted_score": 0.05492630459209623,
+          "odds": 7.7,
           "popularity": 4
         },
         {
           "rank": 5,
           "umaban": 1,
-          "horse_name": "レッドガレオン",
-          "predicted_score": -0.1100124072915361,
-          "odds": 9.6,
+          "horse_name": "ウメヒナタ",
+          "predicted_score": -0.1812791644087251,
+          "odds": 15.5,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 9,
-          "horse_name": "トップエンドパワー",
-          "predicted_score": -0.19631289683334865,
-          "odds": 15.6,
+          "umaban": 11,
+          "horse_name": "ホットハニーラグ",
+          "predicted_score": -0.28549142971757513,
+          "odds": 19.5,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 15,
-          "horse_name": "マスターピース",
-          "predicted_score": -0.22385688414014135,
-          "odds": 16.3,
+          "umaban": 3,
+          "horse_name": "ダヌラーサナ",
+          "predicted_score": -0.2999910826930648,
+          "odds": 20.6,
           "popularity": 7
         },
         {
           "rank": 8,
-          "umaban": 4,
-          "horse_name": "サマーレディ",
-          "predicted_score": -0.2755831454353456,
-          "odds": 18.5,
+          "umaban": 7,
+          "horse_name": "オンアロール",
+          "predicted_score": -0.43441240044472845,
+          "odds": 34.6,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 7,
-          "horse_name": "ドリームハロウ",
-          "predicted_score": -0.3800097655223664,
-          "odds": 27.3,
+          "umaban": 4,
+          "horse_name": "エールヴェヌス",
+          "predicted_score": -0.5944862601427693,
+          "odds": 48.9,
           "popularity": 9
         },
         {
           "rank": 10,
-          "umaban": 14,
-          "horse_name": "サイモンレコルト",
-          "predicted_score": -0.4383880405270993,
-          "odds": 34.9,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 2,
-          "horse_name": "モアザンヴォルト",
-          "predicted_score": -0.5127197284425902,
-          "odds": 38.3,
+          "umaban": 5,
+          "horse_name": "バッテリー",
+          "predicted_score": -0.6984247876214441,
+          "odds": 76.1,
           "popularity": 11
         },
         {
-          "rank": 12,
-          "umaban": 16,
-          "horse_name": "ビップカレッジ",
-          "predicted_score": -0.5376333497631384,
-          "odds": 41.8,
-          "popularity": 12
-        },
-        {
-          "rank": 13,
-          "umaban": 5,
-          "horse_name": "キングゴールド",
-          "predicted_score": -0.7002704513893521,
-          "odds": 79.5,
-          "popularity": 13
-        },
-        {
-          "rank": 14,
-          "umaban": 6,
-          "horse_name": "クリコリンダ",
-          "predicted_score": -0.7002704513893521,
-          "odds": 106.9,
-          "popularity": 14
-        },
-        {
-          "rank": 15,
-          "umaban": 11,
-          "horse_name": "ナムラウルフ",
-          "predicted_score": -0.8194195345105473,
-          "odds": 145.0,
-          "popularity": 16
-        },
-        {
-          "rank": 16,
-          "umaban": 13,
-          "horse_name": "ルシエルノーブル",
-          "predicted_score": -0.8194195345105473,
-          "odds": 138.8,
-          "popularity": 15
+          "rank": 11,
+          "umaban": 9,
+          "horse_name": "スマートサロン",
+          "predicted_score": -0.6984247876214441,
+          "odds": 75.0,
+          "popularity": 10
         }
       ]
     },
     {
-      "race_id": "202608041007",
-      "race_name": "３歳以上１勝クラス",
+      "race_id": "202608041102",
+      "race_name": "２歳未勝利",
       "venue": "京都",
-      "race_num": 7,
-      "post_time": "13:25",
-      "race_class": "1勝クラス",
+      "race_num": 2,
+      "post_time": "10:15",
+      "race_class": "未勝利",
       "course_type": "ダート",
       "distance_m": 1800,
       "direction": "右",
@@ -1976,236 +1588,117 @@
       "predictions": [
         {
           "rank": 1,
-          "umaban": 10,
-          "horse_name": "バリオス",
-          "predicted_score": 0.5016911102187029,
-          "odds": 2.4,
+          "umaban": 1,
+          "horse_name": "グランビート",
+          "predicted_score": 0.3330464197837237,
+          "odds": 2.6,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 2,
-          "horse_name": "スカイストライプス",
-          "predicted_score": 0.25456664451632816,
-          "odds": 3.8,
+          "umaban": 9,
+          "horse_name": "マコトブリッツ",
+          "predicted_score": 0.26957947826097206,
+          "odds": 3.3,
           "popularity": 2
         },
         {
           "rank": 3,
-          "umaban": 8,
-          "horse_name": "ハイロード",
-          "predicted_score": 0.08340008765203678,
-          "odds": 7.1,
+          "umaban": 5,
+          "horse_name": "テーオータイタン",
+          "predicted_score": 0.016111168072523177,
+          "odds": 8.1,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 12,
-          "horse_name": "ジーティーアメリカ",
-          "predicted_score": -0.027989702621567237,
-          "odds": 8.9,
+          "umaban": 10,
+          "horse_name": "オーバーシュタイン",
+          "predicted_score": -0.09205634572491807,
+          "odds": 9.4,
           "popularity": 4
         },
         {
           "rank": 5,
           "umaban": 7,
-          "horse_name": "ララディアーブル",
-          "predicted_score": -0.15732481802071102,
-          "odds": 14.1,
+          "horse_name": "プレヴォスト",
+          "predicted_score": -0.09917226479599484,
+          "odds": 9.5,
           "popularity": 5
         },
         {
           "rank": 6,
           "umaban": 6,
-          "horse_name": "クラテロス",
-          "predicted_score": -0.1609169398971426,
-          "odds": 14.6,
+          "horse_name": "オーロルドーレ",
+          "predicted_score": -0.16624387384139114,
+          "odds": 14.4,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 4,
-          "horse_name": "ブラックドレス",
-          "predicted_score": -0.19153022905532976,
-          "odds": 15.1,
+          "umaban": 3,
+          "horse_name": "ジーティーアツモリ",
+          "predicted_score": -0.2728026697484369,
+          "odds": 18.4,
           "popularity": 7
         },
         {
           "rank": 8,
-          "umaban": 5,
-          "horse_name": "スナークシャラク",
-          "predicted_score": -0.36623200033462516,
-          "odds": 25.5,
-          "popularity": 8
-        },
-        {
-          "rank": 9,
-          "umaban": 9,
-          "horse_name": "ゴールデンダガー",
-          "predicted_score": -0.4286873237729474,
-          "odds": 33.6,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 11,
-          "horse_name": "テーオーアンジェラ",
-          "predicted_score": -0.44033380595572785,
-          "odds": 34.9,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 3,
-          "horse_name": "ハノハノ",
-          "predicted_score": -0.5944862601427693,
-          "odds": 50.6,
-          "popularity": 11
-        },
-        {
-          "rank": 12,
-          "umaban": 1,
-          "horse_name": "マリノエステーラ",
-          "predicted_score": -0.8194195345105473,
-          "odds": 127.2,
-          "popularity": 12
-        }
-      ]
-    },
-    {
-      "race_id": "202608041008",
-      "race_name": "３歳以上２勝クラス",
-      "venue": "京都",
-      "race_num": 8,
-      "post_time": "14:00",
-      "race_class": "2勝クラス",
-      "course_type": "ダート",
-      "distance_m": 1200,
-      "direction": "右",
-      "track_condition": null,
-      "weather": null,
-      "predictions": [
-        {
-          "rank": 1,
-          "umaban": 13,
-          "horse_name": "ライトオブヌカタ",
-          "predicted_score": 0.3336600100598949,
-          "odds": 2.4,
-          "popularity": 1
-        },
-        {
-          "rank": 2,
-          "umaban": 8,
-          "horse_name": "マメタンク",
-          "predicted_score": 0.08872336045414925,
-          "odds": 8.0,
-          "popularity": 3
-        },
-        {
-          "rank": 3,
-          "umaban": 3,
-          "horse_name": "ダノンモンテローザ",
-          "predicted_score": 0.07627436335667075,
-          "odds": 6.3,
-          "popularity": 2
-        },
-        {
-          "rank": 4,
-          "umaban": 10,
-          "horse_name": "バッハアルプゼー",
-          "predicted_score": -0.09086253500373837,
-          "odds": 9.6,
-          "popularity": 4
-        },
-        {
-          "rank": 5,
           "umaban": 12,
-          "horse_name": "モンサンゴールデン",
-          "predicted_score": -0.11665887086637121,
-          "odds": 11.5,
-          "popularity": 5
-        },
-        {
-          "rank": 6,
-          "umaban": 4,
-          "horse_name": "ビッグドリーム",
-          "predicted_score": -0.18381033165647176,
-          "odds": 14.9,
-          "popularity": 6
-        },
-        {
-          "rank": 7,
-          "umaban": 1,
-          "horse_name": "ミサビスケッツ",
-          "predicted_score": -0.19406139630307642,
-          "odds": 15.5,
-          "popularity": 7
-        },
-        {
-          "rank": 8,
-          "umaban": 7,
-          "horse_name": "ジーベック",
-          "predicted_score": -0.23686612447344016,
-          "odds": 17.7,
+          "horse_name": "ドリームアース",
+          "predicted_score": -0.4702054891539853,
+          "odds": 35.6,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 9,
-          "horse_name": "ルイステソーロ",
-          "predicted_score": -0.32121040126560263,
-          "odds": 21.1,
-          "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 11,
-          "horse_name": "ワイノナオミ",
-          "predicted_score": -0.3732125699058053,
-          "odds": 22.5,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 6,
-          "horse_name": "ズバットマサムネ",
-          "predicted_score": -0.48000761425935573,
-          "odds": 36.8,
-          "popularity": 11
-        },
-        {
-          "rank": 12,
           "umaban": 2,
-          "horse_name": "ストラテージュ",
-          "predicted_score": -0.511464235543191,
-          "odds": 39.2,
-          "popularity": 12
-        },
-        {
-          "rank": 13,
-          "umaban": 5,
-          "horse_name": "ダズリングダンス",
+          "horse_name": "ゲームイズマイン",
           "predicted_score": -0.5307288936759749,
-          "odds": 41.5,
+          "odds": 41.1,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 13,
+          "horse_name": "レアアース",
+          "predicted_score": -0.540531105269172,
+          "odds": 43.2,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 4,
+          "horse_name": "カザンミハラ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 81.8,
+          "popularity": 12
+        },
+        {
+          "rank": 12,
+          "umaban": 8,
+          "horse_name": "アンベリール",
+          "predicted_score": -0.6984247876214441,
+          "odds": 90.6,
           "popularity": 13
         },
         {
-          "rank": 14,
-          "umaban": 14,
-          "horse_name": "バイファーザベスト",
-          "predicted_score": -0.6186307043281037,
-          "odds": 64.1,
-          "popularity": 14
+          "rank": 13,
+          "umaban": 11,
+          "horse_name": "ジェルメーヌ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 78.0,
+          "popularity": 11
         }
       ]
     },
     {
-      "race_id": "202608041009",
-      "race_name": "北野特別(2勝クラス)",
+      "race_id": "202608041103",
+      "race_name": "２歳未勝利",
       "venue": "京都",
-      "race_num": 9,
-      "post_time": "14:35",
-      "race_class": null,
+      "race_num": 3,
+      "post_time": "10:45",
+      "race_class": "未勝利",
       "course_type": "芝",
       "distance_m": 2000,
       "direction": "右",
@@ -2215,236 +1708,403 @@
         {
           "rank": 1,
           "umaban": 8,
-          "horse_name": "スカイスプレンダー",
-          "predicted_score": 0.3811839490073366,
-          "odds": 2.9,
+          "horse_name": "エトワールハマー",
+          "predicted_score": 0.6787523960125854,
+          "odds": 1.8,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 7,
-          "horse_name": "カムアップローゼス",
-          "predicted_score": 0.2523545258443968,
-          "odds": 3.8,
+          "umaban": 5,
+          "horse_name": "ペプチドデバイス",
+          "predicted_score": 0.23747591548525668,
+          "odds": 4.8,
           "popularity": 2
         },
         {
           "rank": 3,
-          "umaban": 6,
-          "horse_name": "ダイヤモンドハンズ",
-          "predicted_score": 0.15320983911713787,
-          "odds": 4.8,
+          "umaban": 9,
+          "horse_name": "ベニールラヴニール",
+          "predicted_score": 0.07045315260249534,
+          "odds": 6.4,
           "popularity": 3
         },
         {
           "rank": 4,
-          "umaban": 4,
-          "horse_name": "ホウオウタイタン",
-          "predicted_score": 0.05681253118182373,
-          "odds": 6.7,
+          "umaban": 3,
+          "horse_name": "エールヴォル",
+          "predicted_score": -0.1348578647372671,
+          "odds": 12.6,
           "popularity": 4
         },
         {
           "rank": 5,
-          "umaban": 5,
-          "horse_name": "オメガインペリアル",
-          "predicted_score": -0.08311606158220809,
-          "odds": 10.7,
+          "umaban": 6,
+          "horse_name": "アルバドラータ",
+          "predicted_score": -0.2605256420530583,
+          "odds": 18.1,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 3,
-          "horse_name": "スターリングアップ",
-          "predicted_score": -0.23457120603966128,
-          "odds": 17.1,
+          "umaban": 7,
+          "horse_name": "エコロリンド",
+          "predicted_score": -0.29081836366182373,
+          "odds": 19.5,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 2,
-          "horse_name": "キタサンハナビラ",
-          "predicted_score": -0.28576497484924823,
-          "odds": 19.0,
+          "umaban": 1,
+          "horse_name": "シヴィリティ",
+          "predicted_score": -0.3320054975803452,
+          "odds": 21.6,
           "popularity": 7
         },
         {
           "rank": 8,
-          "umaban": 1,
-          "horse_name": "ダノンカゼルタ",
-          "predicted_score": -0.3260079785853292,
-          "odds": 21.6,
+          "umaban": 11,
+          "horse_name": "ゴールデンステーラ",
+          "predicted_score": -0.43711170593671406,
+          "odds": 33.6,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 9,
-          "horse_name": "ミカエルパシャ",
-          "predicted_score": -0.37526470517535815,
-          "odds": 23.5,
+          "umaban": 4,
+          "horse_name": "カフジポポー",
+          "predicted_score": -0.43715784249490214,
+          "odds": 34.1,
           "popularity": 9
         },
         {
           "rank": 10,
           "umaban": 10,
-          "horse_name": "ビッグデイメイク",
-          "predicted_score": -0.6984247876214441,
-          "odds": 116.7,
+          "horse_name": "ウィモウェ",
+          "predicted_score": -0.47993150077533914,
+          "odds": 35.9,
           "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 12,
+          "horse_name": "ロードフェルム",
+          "predicted_score": -0.5113881220591745,
+          "odds": 38.5,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 2,
+          "horse_name": "スナークルーベンス",
+          "predicted_score": -0.664855280033905,
+          "odds": 68.7,
+          "popularity": 12
         }
       ]
     },
     {
-      "race_id": "202608041010",
-      "race_name": "ハロウィンＳ(3勝クラス)",
+      "race_id": "202608041105",
+      "race_name": "２歳新馬",
       "venue": "京都",
-      "race_num": 10,
-      "post_time": "15:10",
-      "race_class": null,
-      "course_type": "ダート",
-      "distance_m": 1900,
+      "race_num": 5,
+      "post_time": "12:05",
+      "race_class": "新馬",
+      "course_type": "芝",
+      "distance_m": 1600,
       "direction": "右",
       "track_condition": null,
       "weather": null,
       "predictions": [
         {
           "rank": 1,
-          "umaban": 3,
-          "horse_name": "ソルチェリア",
-          "predicted_score": 0.2380702545830325,
-          "odds": 4.8,
+          "umaban": 17,
+          "horse_name": "ラスゲアード",
+          "predicted_score": 0.5735724642063748,
+          "odds": 2.4,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 9,
-          "horse_name": "システマソラー",
-          "predicted_score": 0.2380702545830325,
-          "odds": 5.2,
+          "umaban": 8,
+          "horse_name": "シルヴァニクス",
+          "predicted_score": 0.050285121033407196,
+          "odds": 5.9,
           "popularity": 2
         },
         {
           "rank": 3,
-          "umaban": 14,
-          "horse_name": "マテンロウブレイブ",
-          "predicted_score": 0.037417804601178176,
-          "odds": 7.2,
-          "popularity": 4
-        },
-        {
-          "rank": 4,
-          "umaban": 11,
-          "horse_name": "ペンナヴェローチェ",
-          "predicted_score": 0.0331695895807757,
-          "odds": 6.6,
+          "umaban": 12,
+          "horse_name": "ポジティブレンサ",
+          "predicted_score": -0.06313639781067262,
+          "odds": 8.9,
           "popularity": 3
         },
         {
+          "rank": 4,
+          "umaban": 10,
+          "horse_name": "ウインヴァンガード",
+          "predicted_score": -0.11001464164473819,
+          "odds": 9.5,
+          "popularity": 4
+        },
+        {
           "rank": 5,
-          "umaban": 4,
-          "horse_name": "アークドール",
-          "predicted_score": -0.06408751040894496,
-          "odds": 10.7,
+          "umaban": 3,
+          "horse_name": "メイショウキラメキ",
+          "predicted_score": -0.19631289683334865,
+          "odds": 16.0,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 16,
-          "horse_name": "リューデスハイム",
-          "predicted_score": -0.12809799576386935,
-          "odds": 12.2,
+          "umaban": 2,
+          "horse_name": "サンオブシディアン",
+          "predicted_score": -0.22385688414014135,
+          "odds": 16.3,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 10,
-          "horse_name": "ブレトワルダ",
-          "predicted_score": -0.1812791644087251,
-          "odds": 15.4,
+          "umaban": 15,
+          "horse_name": "コカボムタワー",
+          "predicted_score": -0.2999910826930648,
+          "odds": 20.5,
           "popularity": 8
         },
         {
           "rank": 8,
-          "umaban": 8,
-          "horse_name": "ジョータルマエ",
-          "predicted_score": -0.19153022905532976,
-          "odds": 15.0,
+          "umaban": 16,
+          "horse_name": "カールイメル",
+          "predicted_score": -0.2999910826930648,
+          "odds": 19.4,
           "popularity": 7
         },
         {
           "rank": 9,
-          "umaban": 2,
-          "horse_name": "ショウサンジョージ",
-          "predicted_score": -0.287714054997686,
-          "odds": 19.3,
+          "umaban": 7,
+          "horse_name": "ロイヤルアイビス",
+          "predicted_score": -0.3280075968821638,
+          "odds": 21.7,
           "popularity": 9
         },
         {
           "rank": 10,
-          "umaban": 13,
-          "horse_name": "タイセイアディクト",
-          "predicted_score": -0.32121040126560263,
-          "odds": 21.3,
+          "umaban": 14,
+          "horse_name": "エスヴェドラ",
+          "predicted_score": -0.37726432347219274,
+          "odds": 23.5,
           "popularity": 10
         },
         {
           "rank": 11,
-          "umaban": 6,
-          "horse_name": "メイショウコガシラ",
-          "predicted_score": -0.3743277911573821,
-          "odds": 28.8,
-          "popularity": 12
-        },
-        {
-          "rank": 12,
-          "umaban": 1,
-          "horse_name": "セブンマジシャン",
-          "predicted_score": -0.37801014722553183,
-          "odds": 25.3,
+          "umaban": 13,
+          "horse_name": "ウルスス",
+          "predicted_score": -0.37726432347219274,
+          "odds": 26.2,
           "popularity": 11
         },
         {
+          "rank": 12,
+          "umaban": 9,
+          "horse_name": "ラブリーセブン",
+          "predicted_score": -0.38387016514417516,
+          "odds": 30.1,
+          "popularity": 12
+        },
+        {
           "rank": 13,
-          "umaban": 12,
-          "horse_name": "オリーブグリーン",
-          "predicted_score": -0.43111418694169806,
-          "odds": 32.0,
+          "umaban": 6,
+          "horse_name": "ハクアイポルックス",
+          "predicted_score": -0.5127197284425902,
+          "odds": 37.4,
           "popularity": 13
         },
         {
           "rank": 14,
-          "umaban": 7,
-          "horse_name": "ルクスビッグスター",
-          "predicted_score": -0.511464235543191,
-          "odds": 38.0,
+          "umaban": 11,
+          "horse_name": "ヒグマドン",
+          "predicted_score": -0.6186307043281037,
+          "odds": 57.6,
           "popularity": 14
         },
         {
           "rank": 15,
           "umaban": 5,
-          "horse_name": "キュールエフウジン",
-          "predicted_score": -0.5944862601427693,
-          "odds": 48.0,
+          "horse_name": "サイモンソレアード",
+          "predicted_score": -0.666700943801813,
+          "odds": 69.4,
           "popularity": 15
         },
         {
           "rank": 16,
-          "umaban": 15,
-          "horse_name": "サイモンブーケ",
-          "predicted_score": -0.8194195345105473,
-          "odds": 153.5,
+          "umaban": 1,
+          "horse_name": "サヨノディーディー",
+          "predicted_score": -0.7002704513893521,
+          "odds": 94.0,
+          "popularity": 17
+        },
+        {
+          "rank": 17,
+          "umaban": 4,
+          "horse_name": "テーオーディスタス",
+          "predicted_score": -0.7002704513893521,
+          "odds": 81.4,
           "popularity": 16
         }
       ]
     },
     {
-      "race_id": "202608041011",
-      "race_name": "ファンタジーＳ(G3)",
+      "race_id": "202608041106",
+      "race_name": "２歳新馬",
       "venue": "京都",
-      "race_num": 11,
-      "post_time": "15:45",
-      "race_class": "オープン",
-      "course_type": "芝",
+      "race_num": 6,
+      "post_time": "12:35",
+      "race_class": "新馬",
+      "course_type": "ダート",
+      "distance_m": 1800,
+      "direction": "右",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 5,
+          "horse_name": "マジカルブラック",
+          "predicted_score": 0.2772679792063905,
+          "odds": 3.4,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 8,
+          "horse_name": "ニシノマサムネ",
+          "predicted_score": 0.26844132744742116,
+          "odds": 3.5,
+          "popularity": 2
+        },
+        {
+          "rank": 3,
+          "umaban": 9,
+          "horse_name": "オールベット",
+          "predicted_score": 0.010543930641634622,
+          "odds": 7.1,
+          "popularity": 4
+        },
+        {
+          "rank": 4,
+          "umaban": 2,
+          "horse_name": "アブソリュートガイ",
+          "predicted_score": 0.004480184672820716,
+          "odds": 6.8,
+          "popularity": 3
+        },
+        {
+          "rank": 5,
+          "umaban": 16,
+          "horse_name": "ヴァルキリーキック",
+          "predicted_score": -0.14894222053858053,
+          "odds": 11.7,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 10,
+          "horse_name": "ディヴィニダッド",
+          "predicted_score": -0.19631289683334865,
+          "odds": 15.1,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 15,
+          "horse_name": "ダルマパワー",
+          "predicted_score": -0.37726432347219274,
+          "odds": 23.9,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 13,
+          "horse_name": "サイモンホライズン",
+          "predicted_score": -0.3793164587417456,
+          "odds": 28.6,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 1,
+          "horse_name": "タマモウララカ",
+          "predicted_score": -0.44246508896068865,
+          "odds": 32.8,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 3,
+          "horse_name": "シャーマット",
+          "predicted_score": -0.540531105269172,
+          "odds": 43.3,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 4,
+          "horse_name": "コートドール",
+          "predicted_score": -0.5605706796979564,
+          "odds": 45.3,
+          "popularity": 12
+        },
+        {
+          "rank": 12,
+          "umaban": 12,
+          "horse_name": "アラパリパリョー",
+          "predicted_score": -0.5605706796979564,
+          "odds": 44.9,
+          "popularity": 11
+        },
+        {
+          "rank": 13,
+          "umaban": 11,
+          "horse_name": "ロゼブレイズ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 63.6,
+          "popularity": 15
+        },
+        {
+          "rank": 14,
+          "umaban": 6,
+          "horse_name": "タイセイアレグロ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 54.4,
+          "popularity": 13
+        },
+        {
+          "rank": 15,
+          "umaban": 14,
+          "horse_name": "バンブトンウーノ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 61.0,
+          "popularity": 14
+        },
+        {
+          "rank": 16,
+          "umaban": 7,
+          "horse_name": "キタノディレク",
+          "predicted_score": -0.7002704513893521,
+          "odds": 77.7,
+          "popularity": 16
+        }
+      ]
+    },
+    {
+      "race_id": "202608041107",
+      "race_name": "３歳以上１勝クラス",
+      "venue": "京都",
+      "race_num": 7,
+      "post_time": "13:05",
+      "race_class": "1勝クラス",
+      "course_type": "ダート",
       "distance_m": 1400,
       "direction": "右",
       "track_condition": null,
@@ -2452,101 +2112,450 @@
       "predictions": [
         {
           "rank": 1,
-          "umaban": 8,
-          "horse_name": "ブライトスクリプト",
-          "predicted_score": 0.3490947264810475,
-          "odds": 2.6,
+          "umaban": 16,
+          "horse_name": "ダノンクロム",
+          "predicted_score": 0.24692076090185294,
+          "odds": 5.3,
           "popularity": 1
         },
         {
           "rank": 2,
+          "umaban": 11,
+          "horse_name": "ブロンテス",
+          "predicted_score": 0.0929715754745517,
+          "odds": 7.9,
+          "popularity": 4
+        },
+        {
+          "rank": 3,
+          "umaban": 15,
+          "horse_name": "バトルアックス",
+          "predicted_score": 0.07684611310659321,
+          "odds": 6.3,
+          "popularity": 2
+        },
+        {
+          "rank": 4,
+          "umaban": 7,
+          "horse_name": "モズジェネラル",
+          "predicted_score": 0.062271494759241014,
+          "odds": 7.6,
+          "popularity": 3
+        },
+        {
+          "rank": 5,
+          "umaban": 13,
+          "horse_name": "デュアルロール",
+          "predicted_score": 0.00496789233619359,
+          "odds": 9.1,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
           "umaban": 6,
-          "horse_name": "イモージェン",
-          "predicted_score": 0.16936263678590943,
+          "horse_name": "マリリンバローズ",
+          "predicted_score": -0.04905756293272547,
+          "odds": 10.6,
+          "popularity": 7
+        },
+        {
+          "rank": 7,
+          "umaban": 5,
+          "horse_name": "ムテキシャチョウ",
+          "predicted_score": -0.07270050453377346,
+          "odds": 9.5,
+          "popularity": 6
+        },
+        {
+          "rank": 8,
+          "umaban": 8,
+          "horse_name": "マルモア",
+          "predicted_score": -0.1789842459749462,
+          "odds": 15.2,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 1,
+          "horse_name": "リテラシー",
+          "predicted_score": -0.23686612447344016,
+          "odds": 17.6,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 4,
+          "horse_name": "ヴェルジーネ",
+          "predicted_score": -0.28549142971757513,
+          "odds": 20.0,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 9,
+          "horse_name": "インピッシュ",
+          "predicted_score": -0.32121040126560263,
+          "odds": 21.8,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 14,
+          "horse_name": "タガノプディング",
+          "predicted_score": -0.3730291959511863,
+          "odds": 25.3,
+          "popularity": 13
+        },
+        {
+          "rank": 13,
+          "umaban": 12,
+          "horse_name": "メイショウビストロ",
+          "predicted_score": -0.3800097655223664,
+          "odds": 24.9,
+          "popularity": 12
+        },
+        {
+          "rank": 14,
+          "umaban": 2,
+          "horse_name": "ブレイジングスター",
+          "predicted_score": -0.5605706796979564,
+          "odds": 45.8,
+          "popularity": 14
+        },
+        {
+          "rank": 15,
+          "umaban": 10,
+          "horse_name": "スズノソレイユ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 66.6,
+          "popularity": 15
+        },
+        {
+          "rank": 16,
+          "umaban": 3,
+          "horse_name": "サリカリーフォリア",
+          "predicted_score": -0.6984247876214441,
+          "odds": 112.6,
+          "popularity": 16
+        }
+      ]
+    },
+    {
+      "race_id": "202608041108",
+      "race_name": "３歳以上１勝クラス",
+      "venue": "京都",
+      "race_num": 8,
+      "post_time": "13:35",
+      "race_class": "1勝クラス",
+      "course_type": "芝",
+      "distance_m": 2200,
+      "direction": "右",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 10,
+          "horse_name": "マイコンプリート",
+          "predicted_score": 0.20274799176462793,
+          "odds": 3.1,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 5,
+          "horse_name": "プレデスティナーレ",
+          "predicted_score": 0.15567292427727322,
           "odds": 5.7,
           "popularity": 2
         },
         {
           "rank": 3,
           "umaban": 4,
-          "horse_name": "ニクスルーナ",
-          "predicted_score": 0.01579000770966595,
-          "odds": 6.7,
+          "horse_name": "ニホンピロロジャー",
+          "predicted_score": 0.05371323688136773,
+          "odds": 7.9,
           "popularity": 3
         },
         {
           "rank": 4,
           "umaban": 3,
-          "horse_name": "ビスケットサンド",
-          "predicted_score": 0.003131067899028255,
-          "odds": 7.7,
+          "horse_name": "オープンザパンドラ",
+          "predicted_score": 0.015136719321383194,
+          "odds": 8.9,
           "popularity": 4
         },
         {
           "rank": 5,
+          "umaban": 13,
+          "horse_name": "ゴールドアクセス",
+          "predicted_score": -0.040131306672109325,
+          "odds": 11.0,
+          "popularity": 6
+        },
+        {
+          "rank": 6,
+          "umaban": 9,
+          "horse_name": "ダノンミッドナイト",
+          "predicted_score": -0.05142715202095053,
+          "odds": 9.4,
+          "popularity": 5
+        },
+        {
+          "rank": 7,
+          "umaban": 8,
+          "horse_name": "パーヴォ",
+          "predicted_score": -0.1609169398971426,
+          "odds": 14.4,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 2,
+          "horse_name": "ムスクレスト",
+          "predicted_score": -0.1812791644087251,
+          "odds": 15.0,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
           "umaban": 1,
-          "horse_name": "レニュアージュ",
-          "predicted_score": -0.08793273001289012,
-          "odds": 10.1,
+          "horse_name": "クラウディアイ",
+          "predicted_score": -0.23686612447344016,
+          "odds": 17.5,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
+          "umaban": 14,
+          "horse_name": "ガウディ",
+          "predicted_score": -0.368284135604178,
+          "odds": 24.3,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 11,
+          "horse_name": "リトルスカーレット",
+          "predicted_score": -0.43433628696071186,
+          "odds": 34.9,
+          "popularity": 12
+        },
+        {
+          "rank": 12,
+          "umaban": 7,
+          "horse_name": "サトノビダーヤ",
+          "predicted_score": -0.43441240044472845,
+          "odds": 31.3,
+          "popularity": 11
+        },
+        {
+          "rank": 13,
+          "umaban": 6,
+          "horse_name": "フララナキラ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 64.9,
+          "popularity": 13
+        },
+        {
+          "rank": 14,
+          "umaban": 12,
+          "horse_name": "ピエナオルフェ",
+          "predicted_score": -0.8194195345105473,
+          "odds": 127.6,
+          "popularity": 14
+        }
+      ]
+    },
+    {
+      "race_id": "202608041109",
+      "race_name": "愛宕特別(2勝クラス)",
+      "venue": "京都",
+      "race_num": 9,
+      "post_time": "14:10",
+      "race_class": null,
+      "course_type": "ダート",
+      "distance_m": 1800,
+      "direction": "右",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 8,
+          "horse_name": "ロードアマルフィ",
+          "predicted_score": 0.40492777377139555,
+          "odds": 2.6,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 4,
+          "horse_name": "タガノアルトゥーラ",
+          "predicted_score": 0.34699993292942316,
+          "odds": 2.7,
+          "popularity": 2
+        },
+        {
+          "rank": 3,
+          "umaban": 6,
+          "horse_name": "タガノエルー",
+          "predicted_score": 0.17609307664111462,
+          "odds": 4.1,
+          "popularity": 3
+        },
+        {
+          "rank": 4,
+          "umaban": 9,
+          "horse_name": "アトモス",
+          "predicted_score": -0.08713374417646362,
+          "odds": 11.2,
+          "popularity": 4
+        },
+        {
+          "rank": 5,
+          "umaban": 5,
+          "horse_name": "ニホンピロデヴィン",
+          "predicted_score": -0.28549142971757513,
+          "odds": 19.9,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 10,
-          "horse_name": "フェリチタ",
-          "predicted_score": -0.0914887128237975,
-          "odds": 10.6,
+          "umaban": 2,
+          "horse_name": "ビルンバウム",
+          "predicted_score": -0.3710295776543517,
+          "odds": 25.1,
           "popularity": 6
         },
         {
           "rank": 7,
+          "umaban": 10,
+          "horse_name": "サイモンゼスト",
+          "predicted_score": -0.430930812987079,
+          "odds": 32.2,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 3,
+          "horse_name": "ジーニアスバローズ",
+          "predicted_score": -0.43715784249490214,
+          "odds": 32.7,
+          "popularity": 8
+        },
+        {
+          "rank": 9,
+          "umaban": 1,
+          "horse_name": "ダディーズトリップ",
+          "predicted_score": -0.6074589815797233,
+          "odds": 52.9,
+          "popularity": 9
+        },
+        {
+          "rank": 10,
           "umaban": 7,
-          "horse_name": "シャンデヴァーグ",
-          "predicted_score": -0.22693231755411766,
-          "odds": 16.2,
+          "horse_name": "ゼットレジーナ",
+          "predicted_score": -0.6984247876214441,
+          "odds": 101.3,
+          "popularity": 10
+        }
+      ]
+    },
+    {
+      "race_id": "202608041110",
+      "race_name": "古都Ｓ(3勝クラス)",
+      "venue": "京都",
+      "race_num": 10,
+      "post_time": "14:45",
+      "race_class": null,
+      "course_type": "芝",
+      "distance_m": 3000,
+      "direction": "右",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 5,
+          "horse_name": "エコロレイズ",
+          "predicted_score": 0.2589041964555117,
+          "odds": 4.6,
+          "popularity": 1
+        },
+        {
+          "rank": 2,
+          "umaban": 1,
+          "horse_name": "ファームツエンティ",
+          "predicted_score": 0.24638286717014618,
+          "odds": 4.7,
+          "popularity": 2
+        },
+        {
+          "rank": 3,
+          "umaban": 4,
+          "horse_name": "プレシャスデイ",
+          "predicted_score": 0.15654753545876343,
+          "odds": 5.0,
+          "popularity": 3
+        },
+        {
+          "rank": 4,
+          "umaban": 7,
+          "horse_name": "ウイナーズナイン",
+          "predicted_score": 0.04421339850992823,
+          "odds": 6.4,
+          "popularity": 4
+        },
+        {
+          "rank": 5,
+          "umaban": 2,
+          "horse_name": "アスクデッドヒート",
+          "predicted_score": 0.0331695895807757,
+          "odds": 6.5,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 8,
+          "horse_name": "ウィープディライト",
+          "predicted_score": -0.013866324046170225,
+          "odds": 8.8,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
+          "umaban": 3,
+          "horse_name": "ディヴァインスター",
+          "predicted_score": -0.03280605863621855,
+          "odds": 10.7,
           "popularity": 7
         },
         {
           "rank": 8,
           "umaban": 9,
-          "horse_name": "ベニバナ",
-          "predicted_score": -0.23686612447344016,
-          "odds": 17.4,
+          "horse_name": "タイセイフェリーク",
+          "predicted_score": -0.161024309420165,
+          "odds": 13.6,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 11,
-          "horse_name": "ツキミ",
-          "predicted_score": -0.2755831454353456,
-          "odds": 18.7,
+          "umaban": 6,
+          "horse_name": "ダカラフェスティヴ",
+          "predicted_score": -0.3732125699058053,
+          "odds": 25.5,
           "popularity": 9
-        },
-        {
-          "rank": 10,
-          "umaban": 2,
-          "horse_name": "セイウンマイラヴ",
-          "predicted_score": -0.3750813312207391,
-          "odds": 22.0,
-          "popularity": 10
-        },
-        {
-          "rank": 11,
-          "umaban": 5,
-          "horse_name": "バタフライ",
-          "predicted_score": -0.6984247876214441,
-          "odds": 86.0,
-          "popularity": 11
         }
       ]
     },
     {
-      "race_id": "202608041012",
-      "race_name": "３歳以上１勝クラス",
+      "race_id": "202608041111",
+      "race_name": "まほろばＳ(L)",
       "venue": "京都",
-      "race_num": 12,
-      "post_time": "16:25",
-      "race_class": "1勝クラス",
+      "race_num": 11,
+      "post_time": "15:20",
+      "race_class": "オープン",
       "course_type": "芝",
       "distance_m": 1600,
       "direction": "右",
@@ -2555,147 +2564,226 @@
       "predictions": [
         {
           "rank": 1,
-          "umaban": 2,
-          "horse_name": "テイエムスティール",
-          "predicted_score": 0.2562960985962295,
-          "odds": 5.3,
+          "umaban": 7,
+          "horse_name": "レザベーション",
+          "predicted_score": 0.2522694305427895,
+          "odds": 5.1,
           "popularity": 1
         },
         {
           "rank": 2,
-          "umaban": 17,
-          "horse_name": "フォルナックス",
-          "predicted_score": 0.08872336045414925,
-          "odds": 7.5,
-          "popularity": 3
-        },
-        {
-          "rank": 3,
-          "umaban": 6,
-          "horse_name": "パスコード",
-          "predicted_score": 0.06565909091510963,
-          "odds": 7.1,
+          "umaban": 3,
+          "horse_name": "ブエナオンダ",
+          "predicted_score": 0.23356396597713272,
+          "odds": 5.2,
           "popularity": 2
         },
         {
+          "rank": 3,
+          "umaban": 8,
+          "horse_name": "スマートワイス",
+          "predicted_score": 0.06939584501285655,
+          "odds": 6.0,
+          "popularity": 3
+        },
+        {
           "rank": 4,
-          "umaban": 1,
-          "horse_name": "スマートティアナ",
-          "predicted_score": 0.05459997787750896,
-          "odds": 8.0,
+          "umaban": 12,
+          "horse_name": "キョウエイブリッサ",
+          "predicted_score": 0.05856174779240287,
+          "odds": 6.0,
           "popularity": 4
         },
         {
           "rank": 5,
-          "umaban": 15,
-          "horse_name": "メイショウトウコウ",
-          "predicted_score": -0.03139993569365886,
-          "odds": 9.2,
+          "umaban": 4,
+          "horse_name": "テリオスララ",
+          "predicted_score": 0.025663291193224413,
+          "odds": 7.8,
           "popularity": 5
         },
         {
           "rank": 6,
-          "umaban": 8,
-          "horse_name": "エイズルブルーム",
-          "predicted_score": -0.04550381447502018,
-          "odds": 10.0,
+          "umaban": 13,
+          "horse_name": "ショウナンアデイブ",
+          "predicted_score": 0.00972404428517088,
+          "odds": 8.3,
           "popularity": 6
         },
         {
           "rank": 7,
-          "umaban": 11,
-          "horse_name": "タイムレスキス",
-          "predicted_score": -0.11490905501125508,
-          "odds": 11.7,
+          "umaban": 1,
+          "horse_name": "ガロンヌ",
+          "predicted_score": -0.1355596375989871,
+          "odds": 11.4,
           "popularity": 7
         },
         {
           "rank": 8,
-          "umaban": 9,
-          "horse_name": "アイスヴィレッジ",
-          "predicted_score": -0.1812791644087251,
-          "odds": 15.7,
+          "umaban": 5,
+          "horse_name": "ビップデイジー",
+          "predicted_score": -0.1556377737351603,
+          "odds": 14.2,
           "popularity": 8
         },
         {
           "rank": 9,
-          "umaban": 3,
-          "horse_name": "ラパンドール",
-          "predicted_score": -0.3710295776543517,
-          "odds": 22.1,
-          "popularity": 10
-        },
-        {
-          "rank": 10,
-          "umaban": 12,
-          "horse_name": "マテンロウネイビー",
-          "predicted_score": -0.3750813312207391,
-          "odds": 22.5,
-          "popularity": 11
-        },
-        {
-          "rank": 11,
-          "umaban": 18,
-          "horse_name": "サトノセプター",
-          "predicted_score": -0.37526470517535815,
-          "odds": 21.9,
+          "umaban": 2,
+          "horse_name": "ダイシンヤマト",
+          "predicted_score": -0.2946641487488162,
+          "odds": 19.8,
           "popularity": 9
         },
         {
+          "rank": 10,
+          "umaban": 10,
+          "horse_name": "セオ",
+          "predicted_score": -0.5113881220591745,
+          "odds": 37.4,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 9,
+          "horse_name": "ムイ",
+          "predicted_score": -0.5944862601427693,
+          "odds": 48.4,
+          "popularity": 11
+        },
+        {
           "rank": 12,
-          "umaban": 16,
-          "horse_name": "エングルマン",
-          "predicted_score": -0.3800097655223664,
-          "odds": 25.8,
+          "umaban": 11,
+          "horse_name": "クファシル",
+          "predicted_score": -0.6074589815797233,
+          "odds": 52.7,
           "popularity": 12
         },
         {
           "rank": 13,
-          "umaban": 4,
-          "horse_name": "ザラタン",
-          "predicted_score": -0.38206190079191926,
-          "odds": 27.1,
-          "popularity": 13
-        },
-        {
-          "rank": 14,
-          "umaban": 10,
-          "horse_name": "ラヴリーティアラ",
-          "predicted_score": -0.5044075524879944,
-          "odds": 39.2,
-          "popularity": 14
-        },
-        {
-          "rank": 15,
-          "umaban": 7,
-          "horse_name": "エスティヴァリス",
-          "predicted_score": -0.537709463247155,
-          "odds": 41.3,
-          "popularity": 15
-        },
-        {
-          "rank": 16,
-          "umaban": 14,
-          "horse_name": "ナムラヒナギク",
-          "predicted_score": -0.5605706796979564,
-          "odds": 46.2,
-          "popularity": 16
-        },
-        {
-          "rank": 17,
-          "umaban": 13,
-          "horse_name": "カポレイラ",
+          "umaban": 6,
+          "horse_name": "メイショウシンタケ",
           "predicted_score": -0.6186307043281037,
-          "odds": 55.1,
-          "popularity": 17
+          "odds": 59.7,
+          "popularity": 13
+        }
+      ]
+    },
+    {
+      "race_id": "202608041112",
+      "race_name": "３歳以上２勝クラス",
+      "venue": "京都",
+      "race_num": 12,
+      "post_time": "16:05",
+      "race_class": "2勝クラス",
+      "course_type": "芝",
+      "distance_m": 1400,
+      "direction": "右",
+      "track_condition": null,
+      "weather": null,
+      "predictions": [
+        {
+          "rank": 1,
+          "umaban": 1,
+          "horse_name": "ポペット",
+          "predicted_score": 0.2618507138423486,
+          "odds": 5.3,
+          "popularity": 2
         },
         {
-          "rank": 18,
+          "rank": 2,
+          "umaban": 10,
+          "horse_name": "ファムマルキーズ",
+          "predicted_score": 0.2386520876801021,
+          "odds": 5.2,
+          "popularity": 1
+        },
+        {
+          "rank": 3,
+          "umaban": 6,
+          "horse_name": "ナルキッソス",
+          "predicted_score": 0.1436630678076324,
+          "odds": 5.4,
+          "popularity": 3
+        },
+        {
+          "rank": 4,
+          "umaban": 2,
+          "horse_name": "ワンコールアウェイ",
+          "predicted_score": 0.10253942249892577,
+          "odds": 5.8,
+          "popularity": 4
+        },
+        {
+          "rank": 5,
+          "umaban": 3,
+          "horse_name": "ヒーローインチーフ",
+          "predicted_score": 0.06048532723612304,
+          "odds": 8.0,
+          "popularity": 5
+        },
+        {
+          "rank": 6,
+          "umaban": 7,
+          "horse_name": "ホーリーブラッサム",
+          "predicted_score": -0.03107714056915339,
+          "odds": 9.9,
+          "popularity": 6
+        },
+        {
+          "rank": 7,
           "umaban": 5,
-          "horse_name": "サマーブリザード",
-          "predicted_score": -0.6984247876214441,
-          "odds": 79.1,
-          "popularity": 18
+          "horse_name": "リアライズ",
+          "predicted_score": -0.11440173028660822,
+          "odds": 12.1,
+          "popularity": 7
+        },
+        {
+          "rank": 8,
+          "umaban": 13,
+          "horse_name": "インフローレ",
+          "predicted_score": -0.21507375960435232,
+          "odds": 16.6,
+          "popularity": 9
+        },
+        {
+          "rank": 9,
+          "umaban": 4,
+          "horse_name": "タイキヴァンクール",
+          "predicted_score": -0.2156771813553161,
+          "odds": 16.3,
+          "popularity": 8
+        },
+        {
+          "rank": 10,
+          "umaban": 11,
+          "horse_name": "トウカイエルデ",
+          "predicted_score": -0.43111418694169806,
+          "odds": 31.0,
+          "popularity": 10
+        },
+        {
+          "rank": 11,
+          "umaban": 12,
+          "horse_name": "パーティーガール",
+          "predicted_score": -0.43111418694169806,
+          "odds": 34.2,
+          "popularity": 11
+        },
+        {
+          "rank": 12,
+          "umaban": 8,
+          "horse_name": "プチプラージュ",
+          "predicted_score": -0.6186307043281037,
+          "odds": 60.2,
+          "popularity": 12
+        },
+        {
+          "rank": 13,
+          "umaban": 9,
+          "horse_name": "ムーンウォーリア",
+          "predicted_score": -0.7002704513893521,
+          "odds": 99.6,
+          "popularity": 13
         }
       ]
     }
